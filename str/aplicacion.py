@@ -17,7 +17,7 @@ st.set_page_config(layout="wide")
 st.markdown(page_element, unsafe_allow_html=True)
 
 
-with open('.streamlit/config.yaml') as file:
+with open('str/.streamlit/config.yaml') as file:
     config = yaml.load(file, Loader=SafeLoader)
 
 authenticator = stauth.Authenticate(
