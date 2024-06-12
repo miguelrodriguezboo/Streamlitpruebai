@@ -168,7 +168,7 @@ def cortar_lista(start_value, end_value, lista):
 #establece la página a ventana completa
 st.set_page_config(layout="wide")
 
-with open('.streamlit/config.yaml') as file:
+with open('str/.streamlit/config.yaml') as file:
     config = yaml.load(file, Loader=SafeLoader)
 
 authenticator = stauth.Authenticate(

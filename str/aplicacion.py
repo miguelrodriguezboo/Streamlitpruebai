@@ -29,7 +29,6 @@ authenticator = stauth.Authenticate(
 )
 
 if st.session_state.authentication_status:
-    
     authenticator.logout(location="sidebar")
     md.menu()
     st.title(f':grey[Bienvenido *{st.session_state["name"]}*]')
