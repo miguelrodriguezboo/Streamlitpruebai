@@ -7,3 +7,4 @@ statsmodels
 xgboost
 keras
 plotly
+cufflinks
