@@ -34,5 +34,5 @@ if st.session_state.authentication_status:
     st.title(f':grey[Bienvenido *{st.session_state["name"]}*]')
 else:
     st.title("Bienvenido")
-    st.link_button("Iniciar Sesión", "https://apppruebai-g9iynofp7appev5cmuva2ax.streamlit.app/Login")
+    st.link_button("Iniciar Sesión", "https://aplicacionRedes.streamlit.app/Login")
     st.link_button("Registrarse", "https://dominiodeprueba/Register")
