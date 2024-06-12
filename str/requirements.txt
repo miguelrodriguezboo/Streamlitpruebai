@@ -9,3 +9,4 @@ keras
 plotly
 cufflinks
 matplotlib
+tensorflow
