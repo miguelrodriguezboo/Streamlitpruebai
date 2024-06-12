@@ -11,7 +11,7 @@ from keras.optimizers import SGD
 from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelBinarizer
-import paquetes.modulo as md
+import str.paquetes.modulo as md
 
 #información sobre optimizadores
 #https://prompt.uno/redes-neuronales-profundas/algoritmos-de-optimizacion-para-redes-neuronales-profundas/#:~:text=Tipos%20de%20algoritmos%20de%20optimizaci%C3%B3n%20m%C3%A1s%20utilizados%201,ampliamente%20en%20el%20entrenamiento%20de%20redes%20neuronales.%20
