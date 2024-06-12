@@ -35,5 +35,5 @@ if st.session_state.authentication_status:
     st.title(f':grey[Bienvenido *{st.session_state["name"]}*]')
 else:
     st.title("Bienvenido")
-    st.link_button("Iniciar Sesión", "http://localhost:8501/Login")
-    st.link_button("Registrarse", "http://localhost:8501/Register")
+    st.link_button("Iniciar Sesión", "https://dominiodeprueba/Login")
+    st.link_button("Registrarse", "https://dominiodeprueba/Register")
