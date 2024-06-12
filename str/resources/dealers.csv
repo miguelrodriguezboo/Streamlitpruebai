@@ -1,0 +1,628 @@
+Car_id,Date,Customer Name,Gender,Annual Income,Dealer_Name,Company,Model,Engine,Transmission,Color,Price ($),Dealer_No ,Body Style,Phone,Dealer_Region,Year,Month,M/Y,Ingreso Anual
+C_CND_000001,2022-01-02,Geraldine,Male,13500,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,DoubleÂ Overhead Camshaft,Auto,Black,26000,06457-3834,SUV,8264678,Middletown,2022,1,202201,Bajo
+C_CND_000015,2022-01-02,Zainab,Male,722000,Buddy Storbeck's Diesel Service Inc,Chrysler,Sebring Coupe,Overhead Camshaft,Manual,Pale White,26000,06457-3834,Sedan,7677191,Middletown,2022,1,202201,Medio-Alto
+C_CND_000059,2022-01-04,Hershy,Male,890000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,C-Class,Overhead Camshaft,Manual,Pale White,12000,06457-3834,Hatchback,8939776,Middletown,2022,1,202201,Alto
+C_CND_000091,2022-01-05,Wadia,Male,1245000,Buddy Storbeck's Diesel Service Inc,Nissan,Maxima,Overhead Camshaft,Manual,Pale White,22500,06457-3834,Sedan,7696195,Middletown,2022,1,202201,Muy Alto
+C_CND_000104,2022-01-06,Abel,Male,659000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SL-Class,Overhead Camshaft,Manual,Black,38000,06457-3834,Hardtop,6682438,Janesville,2022,1,202201,Medio-Alto
+C_CND_000137,2022-01-12,Jada,Male,1172500,Buddy Storbeck's Diesel Service Inc,Lexus,ES300,DoubleÂ Overhead Camshaft,Auto,Pale White,27250,06457-3834,SUV,7906708,Middletown,2022,1,202201,Muy Alto
+C_CND_000194,2022-01-17,Ava,Male,2130000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,3000GT,DoubleÂ Overhead Camshaft,Auto,Black,39000,06457-3834,Sedan,6687979,Middletown,2022,1,202201,Muy Alto
+C_CND_000238,2022-01-21,Adrian,Female,1200000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Galant,DoubleÂ Overhead Camshaft,Auto,Pale White,36000,06457-3834,Passenger,8725531,Janesville,2022,1,202201,Muy Alto
+C_CND_000244,2022-01-23,Leo,Male,1610000,Buddy Storbeck's Diesel Service Inc,Cadillac,Eldorado,Overhead Camshaft,Manual,Pale White,31000,06457-3834,Passenger,6249100,Middletown,2022,1,202201,Muy Alto
+C_CND_000275,2022-01-27,Gabrielle,Male,1370000,Buddy Storbeck's Diesel Service Inc,Chrysler,Sebring Coupe,DoubleÂ Overhead Camshaft,Auto,Pale White,46000,06457-3834,Sedan,6154930,Middletown,2022,1,202201,Muy Alto
+C_CND_000319,2022-02-03,Katelyn,Male,840000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Montero Sport,DoubleÂ Overhead Camshaft,Auto,Pale White,39000,06457-3834,SUV,6503890,Middletown,2022,2,202202,Alto
+C_CND_000370,2022-02-06,Heaven,Male,1635000,Buddy Storbeck's Diesel Service Inc,Plymouth,Prowler,Overhead Camshaft,Manual,Pale White,71500,06457-3834,Hatchback,8952847,Middletown,2022,2,202202,Muy Alto
+C_CND_000420,2022-02-08,Devin,Male,1000000,Buddy Storbeck's Diesel Service Inc,Acura,TL,DoubleÂ Overhead Camshaft,Auto,Pale White,24000,06457-3834,Hatchback,7722013,Janesville,2022,2,202202,Alto
+C_CND_000429,2022-02-09,Michael,Male,878000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,S-Class,Overhead Camshaft,Manual,Black,85000,06457-3834,SUV,8526296,Middletown,2022,2,202202,Alto
+C_CND_000443,2022-02-09,Loreley,Female,591000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Montero Sport,DoubleÂ Overhead Camshaft,Auto,Black,45000,06457-3834,Hardtop,7669561,Pasco,2022,2,202202,Medio-Alto
+C_CND_000463,2022-02-14,Allison,Male,1005000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Eclipse,DoubleÂ Overhead Camshaft,Auto,Black,27500,06457-3834,Hardtop,8206647,Middletown,2022,2,202202,Muy Alto
+C_CND_000493,2022-02-15,Lucia,Male,1042000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Monte Carlo,DoubleÂ Overhead Camshaft,Auto,Pale White,21200,06457-3834,Hatchback,8928661,Middletown,2022,2,202202,Muy Alto
+C_CND_000570,2022-02-21,Lillian,Female,1190000,Buddy Storbeck's Diesel Service Inc,Cadillac,Seville,Overhead Camshaft,Manual,Pale White,22000,06457-3834,Hatchback,6466455,Middletown,2022,2,202202,Muy Alto
+C_CND_000622,2022-02-27,Johnny,Female,458000,Buddy Storbeck's Diesel Service Inc,Ford,Focus,Overhead Camshaft,Manual,Pale White,17000,06457-3834,Hatchback,8790801,Janesville,2022,2,202202,Medio
+C_CND_000628,2022-02-28,Reid,Male,875000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,DoubleÂ Overhead Camshaft,Auto,Pale White,27000,06457-3834,Sedan,7343502,Middletown,2022,2,202202,Alto
+C_CND_000660,2022-03-01,Romane,Female,2200000,Buddy Storbeck's Diesel Service Inc,Hyundai,Elantra,Overhead Camshaft,Manual,Pale White,26000,06457-3834,Sedan,7298842,Middletown,2022,3,202203,Muy Alto
+C_CND_000690,2022-03-05,Nayeli,Male,2300000,Buddy Storbeck's Diesel Service Inc,Audi,A6,Overhead Camshaft,Manual,Pale White,24000,06457-3834,SUV,7446612,Middletown,2022,3,202203,Muy Alto
+C_CND_000732,2022-03-05,Penelope,Male,1725000,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Cabrio,DoubleÂ Overhead Camshaft,Auto,Pale White,20500,06457-3834,Passenger,8151504,Middletown,2022,3,202203,Muy Alto
+C_CND_000808,2022-03-08,Sarah,Male,13500,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK,Overhead Camshaft,Manual,Pale White,17000,06457-3834,Passenger,6369393,Middletown,2022,3,202203,Bajo
+C_CND_000823,2022-03-08,Kayden,Male,1302500,Buddy Storbeck's Diesel Service Inc,Subaru,Forester,DoubleÂ Overhead Camshaft,Auto,Black,22250,06457-3834,Hardtop,7721381,Middletown,2022,3,202203,Muy Alto
+C_CND_000828,2022-03-08,Patrick,Male,565000,Buddy Storbeck's Diesel Service Inc,Ford,Explorer,DoubleÂ Overhead Camshaft,Auto,Black,22000,06457-3834,Hatchback,6948225,Janesville,2022,3,202203,Medio-Alto
+C_CND_000857,2022-03-10,Quentin,Male,770000,Buddy Storbeck's Diesel Service Inc,Acura,TL,Overhead Camshaft,Manual,Pale White,14000,06457-3834,Hatchback,6428798,Middletown,2022,3,202203,Alto
+C_CND_000884,2022-03-13,Skylar,Male,1801000,Buddy Storbeck's Diesel Service Inc,Hyundai,Sonata,Overhead Camshaft,Manual,Black,15100,06457-3834,SUV,7478336,Middletown,2022,3,202203,Muy Alto
+C_CND_000887,2022-03-13,Brandon,Male,750000,Buddy Storbeck's Diesel Service Inc,Cadillac,Seville,Overhead Camshaft,Manual,Black,44001,06457-3834,Hardtop,6443234,Middletown,2022,3,202203,Medio-Alto
+C_CND_000950,2022-03-16,Zuri,Female,1262500,Buddy Storbeck's Diesel Service Inc,Mercedes-B,C-Class,Overhead Camshaft,Manual,Pale White,17250,06457-3834,Hatchback,7873794,Middletown,2022,3,202203,Muy Alto
+C_CND_001003,2022-03-19,Violet,Male,1200000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Van,DoubleÂ Overhead Camshaft,Auto,Black,60000,06457-3834,Hatchback,6783037,Middletown,2022,3,202203,Muy Alto
+C_CND_001038,2022-03-19,Ahmed,Male,551200,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,Overhead Camshaft,Manual,Red,19200,06457-3834,Hatchback,8465128,Greenville,2022,3,202203,Medio-Alto
+C_CND_001058,2022-03-20,Alexis,Male,650000,Buddy Storbeck's Diesel Service Inc,Subaru,Outback,Overhead Camshaft,Manual,Red,49000,06457-3834,SUV,7975408,Middletown,2022,3,202203,Medio-Alto
+C_CND_001140,2022-03-22,Angelica,Male,990000,Buddy Storbeck's Diesel Service Inc,Dodge,Viper,DoubleÂ Overhead Camshaft,Auto,Red,31000,06457-3834,SUV,7686143,Middletown,2022,3,202203,Alto
+C_CND_001191,2022-03-23,Christian,Male,507000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Montero Sport,Overhead Camshaft,Manual,Black,42000,06457-3834,Hatchback,6141955,Aurora,2022,3,202203,Medio-Alto
+C_CND_001199,2022-03-24,Anthony,Male,13500,Buddy Storbeck's Diesel Service Inc,BMW,528i,Overhead Camshaft,Manual,Black,21000,06457-3834,SUV,7134917,Middletown,2022,3,202203,Bajo
+C_CND_001232,2022-03-26,Aurelien,Male,13500,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK,Overhead Camshaft,Manual,Black,26000,06457-3834,Passenger,6386533,Middletown,2022,3,202203,Bajo
+C_CND_001272,2022-03-29,Batya,Female,916500,Buddy Storbeck's Diesel Service Inc,Saturn,SW,Overhead Camshaft,Manual,Black,36500,06457-3834,Passenger,7003599,Middletown,2022,3,202203,Alto
+C_CND_001332,2022-03-31,Brooke,Male,13500,Buddy Storbeck's Diesel Service Inc,Audi,A6,Overhead Camshaft,Manual,Pale White,24000,06457-3834,SUV,8421108,Middletown,2022,3,202203,Bajo
+C_CND_001369,2022-04-02,Jackson,Male,1593000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,3000GT,DoubleÂ Overhead Camshaft,Auto,Red,19300,06457-3834,Sedan,8161205,Aurora,2022,4,202204,Muy Alto
+C_CND_001382,2022-04-04,Elvis,Male,877500,Buddy Storbeck's Diesel Service Inc,BMW,528i,Overhead Camshaft,Manual,Black,21500,06457-3834,SUV,8101183,Middletown,2022,4,202204,Alto
+C_CND_001402,2022-04-04,Samuel,Male,2525000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Montero Sport,Overhead Camshaft,Manual,Red,29500,06457-3834,Hardtop,6270692,Middletown,2022,4,202204,Muy Alto
+C_CND_001426,2022-04-05,Dalia,Male,623000,Buddy Storbeck's Diesel Service Inc,BMW,528i,Overhead Camshaft,Manual,Black,21000,06457-3834,SUV,6795744,Middletown,2022,4,202204,Medio-Alto
+C_CND_001455,2022-04-05,Isaure,Male,2825000,Buddy Storbeck's Diesel Service Inc,Lincoln,Continental,Overhead Camshaft,Manual,Black,42500,06457-3834,Passenger,8668177,Middletown,2022,4,202204,Muy Alto
+C_CND_001522,2022-04-07,Emma,Male,1640000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Corvette,DoubleÂ Overhead Camshaft,Auto,Red,35000,06457-3834,SUV,6080099,Middletown,2022,4,202204,Muy Alto
+C_CND_001563,2022-04-10,Kayden,Female,1581000,Buddy Storbeck's Diesel Service Inc,Acura,TL,DoubleÂ Overhead Camshaft,Auto,Black,28100,06457-3834,Hatchback,8661788,Greenville,2022,4,202204,Muy Alto
+C_CND_001576,2022-04-11,Julian,Male,13500,Buddy Storbeck's Diesel Service Inc,Acura,RL,DoubleÂ Overhead Camshaft,Auto,Black,24000,06457-3834,SUV,6592379,Middletown,2022,4,202204,Bajo
+C_CND_001616,2022-04-13,Fradel,Female,765000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Prizm,Overhead Camshaft,Manual,Pale White,21000,06457-3834,SUV,6442919,Middletown,2022,4,202204,Alto
+C_CND_001651,2022-04-13,Julien,Male,739000,Buddy Storbeck's Diesel Service Inc,Mercury,Grand Marquis,DoubleÂ Overhead Camshaft,Auto,Black,9000,06457-3834,SUV,8433052,Middletown,2022,4,202204,Medio-Alto
+C_CND_001720,2022-04-16,Jazmin,Male,1440000,Buddy Storbeck's Diesel Service Inc,Dodge,Avenger,DoubleÂ Overhead Camshaft,Auto,Red,39000,06457-3834,Passenger,7344147,Middletown,2022,4,202204,Muy Alto
+C_CND_001728,2022-04-16,Mathilde,Male,642000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Montero Sport,Overhead Camshaft,Manual,Black,42001,06457-3834,Hardtop,6401545,Middletown,2022,4,202204,Medio-Alto
+C_CND_001755,2022-04-16,Nicholas,Male,920000,Buddy Storbeck's Diesel Service Inc,Honda,Passport,Overhead Camshaft,Manual,Pale White,27000,06457-3834,Hatchback,6518299,Janesville,2022,4,202204,Alto
+C_CND_001767,2022-04-17,Oliver,Male,13500,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,Overhead Camshaft,Manual,Pale White,54000,06457-3834,Sedan,7365310,Middletown,2022,4,202204,Bajo
+C_CND_001808,2022-04-18,Jasmine,Male,421500,Buddy Storbeck's Diesel Service Inc,Saab,3-Sep,DoubleÂ Overhead Camshaft,Auto,Black,26500,06457-3834,Sedan,6576391,Middletown,2022,4,202204,Medio
+C_CND_001850,2022-04-18,Lorena,Male,13500,Buddy Storbeck's Diesel Service Inc,BMW,528i,DoubleÂ Overhead Camshaft,Auto,Pale White,62000,06457-3834,SUV,7254716,Middletown,2022,4,202204,Bajo
+C_CND_001908,2022-04-20,Layla,Male,1270000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Montero Sport,DoubleÂ Overhead Camshaft,Auto,Red,39000,06457-3834,Hatchback,6450662,Middletown,2022,4,202204,Muy Alto
+C_CND_001949,2022-04-22,Zyaire,Male,1455000,Buddy Storbeck's Diesel Service Inc,Subaru,Outback,DoubleÂ Overhead Camshaft,Auto,Pale White,19500,06457-3834,SUV,8013565,Janesville,2022,4,202204,Muy Alto
+C_CND_001983,2022-04-25,Jules,Male,13500,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,Overhead Camshaft,Manual,Black,22000,06457-3834,Hatchback,8358972,Middletown,2022,4,202204,Bajo
+C_CND_002042,2022-04-27,Lilly,Male,2801000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,CLK Coupe,DoubleÂ Overhead Camshaft,Auto,Pale White,22101,06457-3834,Sedan,8677659,Middletown,2022,4,202204,Muy Alto
+C_CND_002121,2022-04-30,Milan,Male,13500,Buddy Storbeck's Diesel Service Inc,Mercury,Grand Marquis,Overhead Camshaft,Manual,Pale White,16001,06457-3834,SUV,6878814,Middletown,2022,4,202204,Bajo
+C_CND_002139,2022-04-30,Ashton,Male,690000,Buddy Storbeck's Diesel Service Inc,Mercury,Grand Marquis,Overhead Camshaft,Manual,Red,71000,06457-3834,SUV,6196935,Janesville,2022,4,202204,Medio-Alto
+C_CND_002150,2022-05-01,Caden,Male,1530000,Buddy Storbeck's Diesel Service Inc,Ford,Taurus,Overhead Camshaft,Manual,Black,43000,06457-3834,SUV,6035917,Middletown,2022,5,202205,Muy Alto
+C_CND_002182,2022-05-02,Nazim,Male,13500,Buddy Storbeck's Diesel Service Inc,Buick,LeSabre,Overhead Camshaft,Manual,Black,20000,06457-3834,Sedan,8651819,Middletown,2022,5,202205,Bajo
+C_CND_002196,2022-05-03,Natalia,Male,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,GTI,Overhead Camshaft,Manual,Pale White,28000,06457-3834,SUV,7293950,Middletown,2022,5,202205,Bajo
+C_CND_002323,2022-05-08,Isaiah,Female,1767000,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Cabrio,Overhead Camshaft,Manual,Black,22700,06457-3834,Passenger,6807859,Middletown,2022,5,202205,Muy Alto
+C_CND_002331,2022-05-08,Shiloh,Female,13500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Silhouette,DoubleÂ Overhead Camshaft,Auto,Black,60001,06457-3834,Sedan,7960876,Middletown,2022,5,202205,Bajo
+C_CND_002353,2022-05-08,Angela,Male,1600000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Silhouette,Overhead Camshaft,Manual,Pale White,14000,06457-3834,Sedan,8605202,Janesville,2022,5,202205,Muy Alto
+C_CND_002375,2022-05-10,Paul,Male,1515000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Metro,DoubleÂ Overhead Camshaft,Auto,Pale White,12500,06457-3834,Passenger,7027389,Middletown,2022,5,202205,Muy Alto
+C_CND_002384,2022-05-11,Sirine,Male,727000,Buddy Storbeck's Diesel Service Inc,Chrysler,Concorde,DoubleÂ Overhead Camshaft,Auto,Red,19001,06457-3834,Hardtop,7004320,Middletown,2022,5,202205,Medio-Alto
+C_CND_002393,2022-05-12,Samantha,Male,940000,Buddy Storbeck's Diesel Service Inc,Honda,Accord,Overhead Camshaft,Manual,Black,43000,06457-3834,Sedan,8083309,Middletown,2022,5,202205,Alto
+C_CND_002510,2022-05-16,Erica,Male,1320000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK,DoubleÂ Overhead Camshaft,Auto,Pale White,36000,06457-3834,Passenger,6904167,Pasco,2022,5,202205,Muy Alto
+C_CND_002518,2022-05-17,Kevin,Female,385000,Buddy Storbeck's Diesel Service Inc,Buick,Regal,DoubleÂ Overhead Camshaft,Auto,Black,19000,06457-3834,Passenger,6061952,Middletown,2022,5,202205,Medio
+C_CND_002521,2022-05-17,Alicia,Male,13500,Buddy Storbeck's Diesel Service Inc,Acura,TL,DoubleÂ Overhead Camshaft,Auto,Black,28000,06457-3834,Hatchback,7012111,Middletown,2022,5,202205,Bajo
+C_CND_002574,2022-05-22,Baptiste,Male,465000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK,DoubleÂ Overhead Camshaft,Auto,Red,19000,06457-3834,Passenger,6562558,Middletown,2022,5,202205,Medio
+C_CND_002611,2022-05-24,Tzivia,Female,770000,Buddy Storbeck's Diesel Service Inc,Toyota,Celica,DoubleÂ Overhead Camshaft,Auto,Pale White,25001,06457-3834,SUV,7594006,Middletown,2022,5,202205,Alto
+C_CND_002700,2022-05-26,Kayla,Male,750000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,E-Class,DoubleÂ Overhead Camshaft,Auto,Pale White,31000,06457-3834,Sedan,7529823,Aurora,2022,5,202205,Medio-Alto
+C_CND_002713,2022-05-28,Noah,Male,780000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,CL500,Overhead Camshaft,Manual,Red,29000,06457-3834,SUV,8881055,Middletown,2022,5,202205,Alto
+C_CND_002721,2022-05-28,Aurora,Female,13500,Buddy Storbeck's Diesel Service Inc,Pontiac,Grand Am,DoubleÂ Overhead Camshaft,Auto,Red,31000,06457-3834,SUV,6825020,Middletown,2022,5,202205,Bajo
+C_CND_002772,2022-05-29,Alicia,Female,556000,Buddy Storbeck's Diesel Service Inc,Volvo,S40,Overhead Camshaft,Manual,Red,17000,06457-3834,Sedan,7576395,Middletown,2022,5,202205,Medio-Alto
+C_CND_002789,2022-05-30,Andrew,Male,1291000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Intrigue,DoubleÂ Overhead Camshaft,Auto,Pale White,45100,06457-3834,SUV,7491246,Middletown,2022,5,202205,Muy Alto
+C_CND_002889,2022-05-31,Sharon,Female,13500,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,DoubleÂ Overhead Camshaft,Auto,Black,22000,06457-3834,Sedan,6385226,Middletown,2022,5,202205,Bajo
+C_CND_002901,2022-06-01,Aden,Female,1165000,Buddy Storbeck's Diesel Service Inc,Nissan,Frontier,Overhead Camshaft,Manual,Black,53500,06457-3834,Hatchback,8198368,Middletown,2022,6,202206,Muy Alto
+C_CND_002907,2022-06-01,Denise,Male,13500,Buddy Storbeck's Diesel Service Inc,Ford,Explorer,DoubleÂ Overhead Camshaft,Auto,Pale White,18000,06457-3834,Hatchback,6342495,Middletown,2022,6,202206,Bajo
+C_CND_002947,2022-06-04,Camille,Male,406500,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,Overhead Camshaft,Manual,Red,22500,06457-3834,SUV,6584355,Middletown,2022,6,202206,Medio
+C_CND_002987,2022-06-08,Farhan,Male,955000,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,DoubleÂ Overhead Camshaft,Auto,Black,26000,06457-3834,Hatchback,8565875,Middletown,2022,6,202206,Alto
+C_CND_003085,2022-06-11,Brayan,Female,690000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Jetta,Overhead Camshaft,Manual,Red,24000,06457-3834,Passenger,7029950,Middletown,2022,6,202206,Medio-Alto
+C_CND_003097,2022-06-11,Hayley,Male,2210000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,CL500,Overhead Camshaft,Manual,Red,29000,06457-3834,SUV,8186183,Middletown,2022,6,202206,Muy Alto
+C_CND_003118,2022-06-11,Amber,Male,745000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Cabrio,Overhead Camshaft,Manual,Red,25000,06457-3834,Sedan,8517431,Austin,2022,6,202206,Medio-Alto
+C_CND_003161,2022-06-13,Kyle,Female,1300000,Buddy Storbeck's Diesel Service Inc,Nissan,Pathfinder,DoubleÂ Overhead Camshaft,Auto,Red,21000,06457-3834,SUV,6707559,Middletown,2022,6,202206,Muy Alto
+C_CND_003232,2022-06-15,Theo,Male,960000,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Coupe,DoubleÂ Overhead Camshaft,Auto,Red,22001,06457-3834,Hardtop,6525102,Middletown,2022,6,202206,Alto
+C_CND_003268,2022-06-16,Erin,Male,885000,Buddy Storbeck's Diesel Service Inc,Toyota,Camry,DoubleÂ Overhead Camshaft,Auto,Red,31000,06457-3834,Hatchback,6637977,Austin,2022,6,202206,Alto
+C_CND_003290,2022-06-18,Edgar,Female,13500,Buddy Storbeck's Diesel Service Inc,Mercury,Mystique,DoubleÂ Overhead Camshaft,Auto,Black,9000,06457-3834,Passenger,7147193,Middletown,2022,6,202206,Bajo
+C_CND_003301,2022-06-18,Jimena,Male,772000,Buddy Storbeck's Diesel Service Inc,Saab,3-Sep,DoubleÂ Overhead Camshaft,Auto,Red,69000,06457-3834,Sedan,6052476,Middletown,2022,6,202206,Alto
+C_CND_003371,2022-06-20,Sebastian,Male,1320000,Buddy Storbeck's Diesel Service Inc,Subaru,Outback,DoubleÂ Overhead Camshaft,Auto,Pale White,19000,06457-3834,SUV,8060454,Middletown,2022,6,202206,Muy Alto
+C_CND_003432,2022-06-23,Armand,Male,715000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Cutlass,DoubleÂ Overhead Camshaft,Auto,Pale White,46000,06457-3834,Sedan,6281304,Middletown,2022,6,202206,Medio-Alto
+C_CND_003464,2022-06-25,Itzel,Female,2265000,Buddy Storbeck's Diesel Service Inc,Honda,CR-V,DoubleÂ Overhead Camshaft,Auto,Pale White,22500,06457-3834,SUV,8904921,Middletown,2022,6,202206,Muy Alto
+C_CND_003488,2022-06-25,Khloe,Male,1450000,Buddy Storbeck's Diesel Service Inc,Pontiac,Bonneville,DoubleÂ Overhead Camshaft,Auto,Pale White,20000,06457-3834,Hatchback,7761566,Pasco,2022,6,202206,Muy Alto
+C_CND_003562,2022-06-29,Andre,Male,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Camaro,DoubleÂ Overhead Camshaft,Auto,Red,24000,06457-3834,Sedan,6699979,Middletown,2022,6,202206,Bajo
+C_CND_003626,2022-07-02,Florent,Male,450000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Cabrio,DoubleÂ Overhead Camshaft,Auto,Pale White,17000,06457-3834,Sedan,7563749,Middletown,2022,7,202207,Medio
+C_CND_003658,2022-07-03,Michelle,Male,13500,Buddy Storbeck's Diesel Service Inc,Mitsubishi,3000GT,Overhead Camshaft,Manual,Red,24001,06457-3834,Sedan,6937573,Middletown,2022,7,202207,Bajo
+C_CND_003666,2022-07-03,Nia,Male,13500,Buddy Storbeck's Diesel Service Inc,BMW,323i,DoubleÂ Overhead Camshaft,Auto,Red,19000,06457-3834,Hatchback,8327140,Pasco,2022,7,202207,Bajo
+C_CND_003756,2022-07-08,Donovan,Male,1155000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Passat,Overhead Camshaft,Manual,Pale White,12500,06457-3834,Hatchback,7014638,Middletown,2022,7,202207,Muy Alto
+C_CND_003811,2022-07-09,Louise,Female,1100000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Galant,DoubleÂ Overhead Camshaft,Auto,Pale White,36000,06457-3834,Passenger,6187956,Middletown,2022,7,202207,Muy Alto
+C_CND_003840,2022-07-10,Tamia,Female,13500,Buddy Storbeck's Diesel Service Inc,Mercury,Cougar,Overhead Camshaft,Manual,Red,22000,06457-3834,Hatchback,7130028,Aurora,2022,7,202207,Bajo
+C_CND_003856,2022-07-11,Madelyn,Female,1590000,Buddy Storbeck's Diesel Service Inc,Saturn,LW,DoubleÂ Overhead Camshaft,Auto,Pale White,18000,06457-3834,Hatchback,8745992,Middletown,2022,7,202207,Muy Alto
+C_CND_003863,2022-07-11,Sadie,Male,435000,Buddy Storbeck's Diesel Service Inc,Acura,TL,DoubleÂ Overhead Camshaft,Auto,Black,28000,06457-3834,Hatchback,8298808,Middletown,2022,7,202207,Medio
+C_CND_003938,2022-07-13,Jasiah,Male,892500,Buddy Storbeck's Diesel Service Inc,Volvo,S70,DoubleÂ Overhead Camshaft,Auto,Black,26500,06457-3834,SUV,8646549,Middletown,2022,7,202207,Alto
+C_CND_004004,2022-07-16,Coline,Male,1450000,Buddy Storbeck's Diesel Service Inc,Dodge,Intrepid,Overhead Camshaft,Manual,Black,11000,06457-3834,Sedan,6519378,Middletown,2022,7,202207,Muy Alto
+C_CND_004026,2022-07-17,Wendy,Male,450000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Corvette,DoubleÂ Overhead Camshaft,Auto,Red,45000,06457-3834,SUV,7002305,Middletown,2022,7,202207,Medio
+C_CND_004034,2022-07-17,Alyssa,Male,1500000,Buddy Storbeck's Diesel Service Inc,Buick,Park Avenue,DoubleÂ Overhead Camshaft,Auto,Red,12000,06457-3834,Hatchback,8544463,Greenville,2022,7,202207,Muy Alto
+C_CND_004043,2022-07-18,Nylah,Female,1460000,Buddy Storbeck's Diesel Service Inc,Ford,Crown Victoria,DoubleÂ Overhead Camshaft,Auto,Red,29000,06457-3834,Passenger,7348438,Middletown,2022,7,202207,Muy Alto
+C_CND_004132,2022-07-24,Liam,Male,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,Passat,DoubleÂ Overhead Camshaft,Auto,Pale White,31000,06457-3834,Hatchback,7473461,Middletown,2022,7,202207,Bajo
+C_CND_004224,2022-07-26,Brianna,Female,635000,Buddy Storbeck's Diesel Service Inc,Cadillac,Eldorado,Overhead Camshaft,Manual,Pale White,13000,06457-3834,Passenger,7198650,Pasco,2022,7,202207,Medio-Alto
+C_CND_004228,2022-07-27,Ariel,Male,1225000,Buddy Storbeck's Diesel Service Inc,Toyota,Camry,DoubleÂ Overhead Camshaft,Auto,Red,31501,06457-3834,Hatchback,8447854,Middletown,2022,7,202207,Muy Alto
+C_CND_004237,2022-07-30,Stephanie,Male,13500,Buddy Storbeck's Diesel Service Inc,Toyota,4Runner,Overhead Camshaft,Manual,Black,25000,06457-3834,Sedan,6943675,Middletown,2022,7,202207,Bajo
+C_CND_004326,2022-08-05,Quincy,Male,2330000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Beetle,DoubleÂ Overhead Camshaft,Auto,Red,45000,06457-3834,SUV,8489373,Middletown,2022,8,202208,Muy Alto
+C_CND_004395,2022-08-07,Emma,Male,1365000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,S-Class,Overhead Camshaft,Manual,Red,21500,06457-3834,SUV,7722551,Middletown,2022,8,202208,Muy Alto
+C_CND_004410,2022-08-07,Elianny,Male,820000,Buddy Storbeck's Diesel Service Inc,Jeep,Wrangler,DoubleÂ Overhead Camshaft,Auto,Red,19000,06457-3834,Hatchback,7625104,Pasco,2022,8,202208,Alto
+C_CND_004423,2022-08-08,Aliza,Male,530000,Buddy Storbeck's Diesel Service Inc,Cadillac,Eldorado,DoubleÂ Overhead Camshaft,Auto,Pale White,17000,06457-3834,Passenger,8104506,Middletown,2022,8,202208,Medio-Alto
+C_CND_004432,2022-08-08,Celia,Male,700000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Montero Sport,DoubleÂ Overhead Camshaft,Auto,Pale White,53000,06457-3834,SUV,7615281,Middletown,2022,8,202208,Medio-Alto
+C_CND_004472,2022-08-09,Aidan,Male,3600000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Cutlass,DoubleÂ Overhead Camshaft,Auto,Red,41001,06457-3834,Sedan,6833233,Middletown,2022,8,202208,Muy Alto
+C_CND_004570,2022-08-10,Jordan,Female,468000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Metro,DoubleÂ Overhead Camshaft,Auto,Black,31000,06457-3834,Passenger,8502106,Middletown,2022,8,202208,Medio
+C_CND_004605,2022-08-13,Bianca,Male,806000,Buddy Storbeck's Diesel Service Inc,Pontiac,Grand Prix,DoubleÂ Overhead Camshaft,Auto,Pale White,42000,06457-3834,Passenger,6139910,Middletown,2022,8,202208,Alto
+C_CND_004610,2022-08-13,Emerson,Female,985000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,Overhead Camshaft,Manual,Red,25000,06457-3834,Hatchback,7856169,Middletown,2022,8,202208,Alto
+C_CND_004620,2022-08-13,Yaseen,Female,1035000,Buddy Storbeck's Diesel Service Inc,Pontiac,Sunfire,Overhead Camshaft,Manual,Red,43500,06457-3834,Sedan,7815856,Pasco,2022,8,202208,Muy Alto
+C_CND_004706,2022-08-17,Brian,Male,13500,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Montero Sport,Overhead Camshaft,Manual,Pale White,12000,06457-3834,SUV,8549948,Middletown,2022,8,202208,Bajo
+C_CND_004761,2022-08-21,Diana,Male,2042000,Buddy Storbeck's Diesel Service Inc,Lincoln,Town car,DoubleÂ Overhead Camshaft,Auto,Pale White,18200,06457-3834,Hatchback,7411126,Middletown,2022,8,202208,Muy Alto
+C_CND_004776,2022-08-21,Hailey,Male,1405000,Buddy Storbeck's Diesel Service Inc,Saab,3-Sep,DoubleÂ Overhead Camshaft,Auto,Black,23500,06457-3834,Sedan,7822591,Middletown,2022,8,202208,Muy Alto
+C_CND_004806,2022-08-21,Angel,Female,845000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Corvette,DoubleÂ Overhead Camshaft,Auto,Pale White,25000,06457-3834,SUV,7082601,Pasco,2022,8,202208,Alto
+C_CND_004879,2022-08-24,Arya,Male,1900000,Buddy Storbeck's Diesel Service Inc,BMW,528i,Overhead Camshaft,Manual,Red,29001,06457-3834,SUV,6372532,Middletown,2022,8,202208,Muy Alto
+C_CND_004929,2022-08-24,Andrea,Male,945000,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,DoubleÂ Overhead Camshaft,Auto,Pale White,21000,06457-3834,Hatchback,6862920,Middletown,2022,8,202208,Alto
+C_CND_004953,2022-08-25,Lenny,Male,2100000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,M-Class,DoubleÂ Overhead Camshaft,Auto,Black,18001,06457-3834,Hardtop,8000021,Middletown,2022,8,202208,Muy Alto
+C_CND_004984,2022-08-27,Laila,Male,790000,Buddy Storbeck's Diesel Service Inc,Chrysler,300M,DoubleÂ Overhead Camshaft,Auto,Black,26000,06457-3834,SUV,6978712,Middletown,2022,8,202208,Alto
+C_CND_004992,2022-08-27,Doris,Male,879000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,DoubleÂ Overhead Camshaft,Auto,Black,39000,06457-3834,Sedan,6554672,Pasco,2022,8,202208,Alto
+C_CND_005007,2022-08-28,Frimet,Male,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,Passat,DoubleÂ Overhead Camshaft,Auto,Red,13000,06457-3834,Hatchback,6774610,Middletown,2022,8,202208,Bajo
+C_CND_005060,2022-08-31,Hailey,Male,2251000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Cabrio,DoubleÂ Overhead Camshaft,Auto,Black,16100,06457-3834,Sedan,7612120,Middletown,2022,8,202208,Muy Alto
+C_CND_005078,2022-08-31,Sean,Female,13500,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Montero Sport,Overhead Camshaft,Manual,Red,29000,06457-3834,Hardtop,8362936,Middletown,2022,8,202208,Bajo
+C_CND_005116,2022-09-01,Isaiah,Male,386000,Buddy Storbeck's Diesel Service Inc,Jeep,Cherokee,DoubleÂ Overhead Camshaft,Auto,Pale White,36000,06457-3834,Sedan,7451483,Middletown,2022,9,202209,Medio
+C_CND_005153,2022-09-03,Ivy,Female,700000,Buddy Storbeck's Diesel Service Inc,Dodge,Durango,DoubleÂ Overhead Camshaft,Auto,Black,24000,06457-3834,SUV,8897293,Middletown,2022,9,202209,Medio-Alto
+C_CND_005164,2022-09-03,Mariam,Male,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Monte Carlo,DoubleÂ Overhead Camshaft,Auto,Red,20001,06457-3834,Hatchback,8796377,Middletown,2022,9,202209,Bajo
+C_CND_005192,2022-09-03,Jolin,Male,1100000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,Overhead Camshaft,Manual,Pale White,54000,06457-3834,Sedan,8083121,Scottsdale,2022,9,202209,Muy Alto
+C_CND_005209,2022-09-04,Theo,Male,720000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Prizm,Overhead Camshaft,Manual,Pale White,22000,06457-3834,Hardtop,8815908,Middletown,2022,9,202209,Medio-Alto
+C_CND_005276,2022-09-06,Mandy,Male,1050000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Aurora,Overhead Camshaft,Manual,Pale White,71000,06457-3834,Passenger,6376746,Middletown,2022,9,202209,Muy Alto
+C_CND_005311,2022-09-06,Kareem,Female,573000,Buddy Storbeck's Diesel Service Inc,Plymouth,Voyager,Overhead Camshaft,Manual,Black,75000,06457-3834,Passenger,7093350,Middletown,2022,9,202209,Medio-Alto
+C_CND_005351,2022-09-07,Layla,Male,400000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Wagon,DoubleÂ Overhead Camshaft,Auto,Black,22000,06457-3834,Passenger,8410145,Middletown,2022,9,202209,Medio
+C_CND_005362,2022-09-07,Raizy,Male,1136000,Buddy Storbeck's Diesel Service Inc,Buick,Park Avenue,Overhead Camshaft,Manual,Pale White,45600,06457-3834,Hatchback,7705454,Middletown,2022,9,202209,Muy Alto
+C_CND_005390,2022-09-07,Natalie,Male,13500,Buddy Storbeck's Diesel Service Inc,Volvo,S40,Overhead Camshaft,Manual,Pale White,17000,06457-3834,Sedan,8258144,Scottsdale,2022,9,202209,Bajo
+C_CND_005461,2022-09-11,Vanessa,Male,3000000,Buddy Storbeck's Diesel Service Inc,BMW,528i,Overhead Camshaft,Manual,Pale White,25001,06457-3834,SUV,7511735,Middletown,2022,9,202209,Muy Alto
+C_CND_005506,2022-09-11,Nicholas,Male,13500,Buddy Storbeck's Diesel Service Inc,Audi,A6,Overhead Camshaft,Manual,Pale White,13000,06457-3834,SUV,7775184,Middletown,2022,9,202209,Bajo
+C_CND_005550,2022-09-12,Xavier,Male,482500,Buddy Storbeck's Diesel Service Inc,Jaguar,S-Type,Overhead Camshaft,Manual,Pale White,20500,06457-3834,Passenger,7732361,Middletown,2022,9,202209,Medio
+C_CND_005567,2022-09-12,Winnie,Female,1171000,Buddy Storbeck's Diesel Service Inc,Ford,Escort,Overhead Camshaft,Manual,Black,12100,06457-3834,Passenger,6260341,Greenville,2022,9,202209,Muy Alto
+C_CND_005585,2022-09-13,Marina,Male,1580000,Buddy Storbeck's Diesel Service Inc,Cadillac,Escalade,DoubleÂ Overhead Camshaft,Auto,Black,28000,06457-3834,Sedan,7290106,Middletown,2022,9,202209,Muy Alto
+C_CND_005643,2022-09-14,Aria,Male,1389000,Buddy Storbeck's Diesel Service Inc,Plymouth,Prowler,Overhead Camshaft,Manual,Pale White,71900,06457-3834,Hatchback,8321621,Middletown,2022,9,202209,Muy Alto
+C_CND_005663,2022-09-14,Dylan,Male,13500,Buddy Storbeck's Diesel Service Inc,Mercury,Mountaineer,Overhead Camshaft,Manual,Pale White,21000,06457-3834,Hardtop,6766629,Middletown,2022,9,202209,Bajo
+C_CND_005667,2022-09-14,Vincent,Female,1232500,Buddy Storbeck's Diesel Service Inc,Buick,Century,DoubleÂ Overhead Camshaft,Auto,Pale White,17250,06457-3834,Hardtop,8033104,Middletown,2022,9,202209,Muy Alto
+C_CND_005719,2022-09-15,Aaron,Male,1450000,Buddy Storbeck's Diesel Service Inc,Jaguar,S-Type,Overhead Camshaft,Manual,Pale White,45000,06457-3834,Passenger,7413747,Middletown,2022,9,202209,Muy Alto
+C_CND_005748,2022-09-16,David,Male,687000,Buddy Storbeck's Diesel Service Inc,Chrysler,Town & Country,Overhead Camshaft,Manual,Pale White,17001,06457-3834,Sedan,8431140,Middletown,2022,9,202209,Medio-Alto
+C_CND_005769,2022-09-17,Hailey,Female,13500,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Coupe,DoubleÂ Overhead Camshaft,Auto,Pale White,22000,06457-3834,Hatchback,7875316,Middletown,2022,9,202209,Bajo
+C_CND_005776,2022-09-17,Phoebe,Female,13500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Aurora,Overhead Camshaft,Manual,Pale White,71000,06457-3834,Passenger,8897626,Middletown,2022,9,202209,Bajo
+C_CND_005909,2022-09-18,Isis,Male,450000,Buddy Storbeck's Diesel Service Inc,BMW,328i,DoubleÂ Overhead Camshaft,Auto,Black,18000,06457-3834,Sedan,6611980,Middletown,2022,9,202209,Medio
+C_CND_005935,2022-09-18,Imani,Male,3056000,Buddy Storbeck's Diesel Service Inc,Dodge,Durango,DoubleÂ Overhead Camshaft,Auto,Pale White,10600,06457-3834,SUV,8770722,Pasco,2022,9,202209,Muy Alto
+C_CND_005945,2022-09-19,Ananya,Male,13500,Buddy Storbeck's Diesel Service Inc,Mitsubishi,3000GT,DoubleÂ Overhead Camshaft,Auto,Pale White,19000,06457-3834,Sedan,8912475,Middletown,2022,9,202209,Bajo
+C_CND_005950,2022-09-19,Gabriel,Male,864000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,DoubleÂ Overhead Camshaft,Auto,Black,39000,06457-3834,Sedan,8667254,Middletown,2022,9,202209,Alto
+C_CND_006011,2022-09-21,London,Female,1230000,Buddy Storbeck's Diesel Service Inc,Toyota,Land Cruiser,DoubleÂ Overhead Camshaft,Auto,Black,21000,06457-3834,SUV,7328610,Middletown,2022,9,202209,Muy Alto
+C_CND_006077,2022-09-21,Katelyn,Male,13500,Buddy Storbeck's Diesel Service Inc,Ford,Crown Victoria,Overhead Camshaft,Manual,Pale White,20000,06457-3834,Passenger,8630951,Middletown,2022,9,202209,Bajo
+C_CND_006096,2022-09-21,Paul,Male,431000,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Coupe,DoubleÂ Overhead Camshaft,Auto,Pale White,22000,06457-3834,Hardtop,7273907,Greenville,2022,9,202209,Medio
+C_CND_006124,2022-09-22,Daphne,Male,515000,Buddy Storbeck's Diesel Service Inc,Volvo,C70,Overhead Camshaft,Manual,Pale White,82000,06457-3834,Hatchback,6705169,Middletown,2022,9,202209,Medio-Alto
+C_CND_006134,2022-09-22,Jayson,Male,750000,Buddy Storbeck's Diesel Service Inc,Toyota,Camry,Overhead Camshaft,Manual,Black,29000,06457-3834,Hatchback,7139424,Middletown,2022,9,202209,Medio-Alto
+C_CND_006153,2022-09-22,Malia,Male,525000,Buddy Storbeck's Diesel Service Inc,Toyota,Land Cruiser,DoubleÂ Overhead Camshaft,Auto,Pale White,12000,06457-3834,SUV,7045209,Pasco,2022,9,202209,Medio-Alto
+C_CND_006173,2022-09-24,Riley,Female,1130000,Buddy Storbeck's Diesel Service Inc,Honda,CR-V,DoubleÂ Overhead Camshaft,Auto,Black,31001,06457-3834,SUV,6783559,Middletown,2022,9,202209,Muy Alto
+C_CND_006282,2022-09-25,Peyton,Female,773500,Buddy Storbeck's Diesel Service Inc,Volvo,S70,DoubleÂ Overhead Camshaft,Auto,Pale White,32500,06457-3834,Hardtop,8812710,Middletown,2022,9,202209,Alto
+C_CND_006287,2022-09-25,Shloime,Male,395000,Buddy Storbeck's Diesel Service Inc,Chrysler,Concorde,DoubleÂ Overhead Camshaft,Auto,Black,12000,06457-3834,Hardtop,8321098,Middletown,2022,9,202209,Medio
+C_CND_006292,2022-09-25,Joanna,Male,1297000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Cabrio,DoubleÂ Overhead Camshaft,Auto,Black,16700,06457-3834,Sedan,6861126,Middletown,2022,9,202209,Muy Alto
+C_CND_006312,2022-09-25,Kelvin,Male,415000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Malibu,Overhead Camshaft,Manual,Pale White,24000,06457-3834,Hatchback,8607835,Middletown,2022,9,202209,Medio
+C_CND_006320,2022-09-25,Madelyn,Male,635000,Buddy Storbeck's Diesel Service Inc,Plymouth,Neon,Overhead Camshaft,Manual,Black,29000,06457-3834,SUV,7289073,Middletown,2022,9,202209,Medio-Alto
+C_CND_006330,2022-09-25,Valentin,Female,2500000,Buddy Storbeck's Diesel Service Inc,Subaru,Forester,DoubleÂ Overhead Camshaft,Auto,Black,22000,06457-3834,Hardtop,6301869,Middletown,2022,9,202209,Muy Alto
+C_CND_006351,2022-09-25,Sariah,Male,1120000,Buddy Storbeck's Diesel Service Inc,Lincoln,Continental,Overhead Camshaft,Manual,Pale White,27000,06457-3834,Passenger,7840972,Pasco,2022,9,202209,Muy Alto
+C_CND_006371,2022-09-26,Zara,Male,1100000,Buddy Storbeck's Diesel Service Inc,Plymouth,Neon,DoubleÂ Overhead Camshaft,Auto,Pale White,27000,06457-3834,SUV,8572184,Middletown,2022,9,202209,Muy Alto
+C_CND_006438,2022-09-26,Nyla,Male,1832000,Buddy Storbeck's Diesel Service Inc,Jaguar,S-Type,DoubleÂ Overhead Camshaft,Auto,Black,16200,06457-3834,Passenger,7102054,Middletown,2022,9,202209,Muy Alto
+C_CND_006509,2022-09-27,Alice,Male,740000,Buddy Storbeck's Diesel Service Inc,Volvo,S40,Overhead Camshaft,Manual,Pale White,17000,06457-3834,Sedan,7010979,Pasco,2022,9,202209,Medio-Alto
+C_CND_006524,2022-09-28,Naomi,Female,740000,Buddy Storbeck's Diesel Service Inc,Mercury,Grand Marquis,DoubleÂ Overhead Camshaft,Auto,Black,19000,06457-3834,SUV,7012108,Middletown,2022,9,202209,Medio-Alto
+C_CND_006533,2022-09-28,Michael,Male,1215000,Buddy Storbeck's Diesel Service Inc,Toyota,RAV4,Overhead Camshaft,Manual,Pale White,22500,06457-3834,Hatchback,8884292,Middletown,2022,9,202209,Muy Alto
+C_CND_006597,2022-10-02,Angela,Female,1533000,Buddy Storbeck's Diesel Service Inc,Nissan,Frontier,Overhead Camshaft,Manual,Black,53300,06457-3834,Hatchback,6440461,Middletown,2022,10,202210,Muy Alto
+C_CND_006648,2022-10-02,Tiffany,Male,13500,Buddy Storbeck's Diesel Service Inc,Ford,Taurus,Overhead Camshaft,Manual,Pale White,22000,06457-3834,SUV,7394219,Middletown,2022,10,202210,Bajo
+C_CND_006699,2022-10-03,Aubrey,Male,1150000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,Overhead Camshaft,Manual,Black,69000,06457-3834,Sedan,7694648,Pasco,2022,10,202210,Muy Alto
+C_CND_006709,2022-10-04,Sean,Male,1400000,Buddy Storbeck's Diesel Service Inc,Audi,A4,Overhead Camshaft,Manual,Pale White,12000,06457-3834,Hatchback,7907728,Middletown,2022,10,202210,Muy Alto
+C_CND_006775,2022-10-09,Cassandra,Male,580000,Buddy Storbeck's Diesel Service Inc,Pontiac,Grand Am,DoubleÂ Overhead Camshaft,Auto,Pale White,31000,06457-3834,SUV,7931790,Middletown,2022,10,202210,Medio-Alto
+C_CND_006817,2022-10-09,Aliza,Male,13500,Buddy Storbeck's Diesel Service Inc,Toyota,Land Cruiser,DoubleÂ Overhead Camshaft,Auto,Black,21000,06457-3834,SUV,6972466,Middletown,2022,10,202210,Bajo
+C_CND_006889,2022-10-12,Arielle,Female,655000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Jetta,DoubleÂ Overhead Camshaft,Auto,Black,22000,06457-3834,Passenger,7174235,Middletown,2022,10,202210,Medio-Alto
+C_CND_006897,2022-10-12,Aiden,Female,13500,Buddy Storbeck's Diesel Service Inc,Nissan,Frontier,DoubleÂ Overhead Camshaft,Auto,Pale White,26000,06457-3834,Hatchback,6010393,Middletown,2022,10,202210,Bajo
+C_CND_006919,2022-10-12,Eileen,Male,503000,Buddy Storbeck's Diesel Service Inc,Ford,Explorer,DoubleÂ Overhead Camshaft,Auto,Pale White,18000,06457-3834,Hatchback,6566794,Scottsdale,2022,10,202210,Medio-Alto
+C_CND_006987,2022-10-18,Evelyn,Male,1400000,Buddy Storbeck's Diesel Service Inc,Infiniti,I30,DoubleÂ Overhead Camshaft,Auto,Pale White,15000,06457-3834,Hatchback,7674596,Middletown,2022,10,202210,Muy Alto
+C_CND_007005,2022-10-18,Bella,Male,1875000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,DoubleÂ Overhead Camshaft,Auto,Black,39500,06457-3834,Sedan,7547655,Middletown,2022,10,202210,Muy Alto
+C_CND_007111,2022-10-23,Blake,Male,1520000,Buddy Storbeck's Diesel Service Inc,Hyundai,Sonata,Overhead Camshaft,Manual,Red,21000,06457-3834,SUV,8364155,Middletown,2022,10,202210,Muy Alto
+C_CND_007141,2022-10-23,Dereck,Male,735000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Wagon,Overhead Camshaft,Manual,Pale White,16000,06457-3834,Passenger,8341306,Scottsdale,2022,10,202210,Medio-Alto
+C_CND_007150,2022-10-23,Zain,Female,1061000,Buddy Storbeck's Diesel Service Inc,Ford,Ranger,Overhead Camshaft,Manual,Black,18100,06457-3834,Hardtop,6785220,Middletown,2022,10,202210,Muy Alto
+C_CND_007181,2022-10-25,Edwin,Male,1110000,Buddy Storbeck's Diesel Service Inc,Toyota,Camry,DoubleÂ Overhead Camshaft,Auto,Red,31001,06457-3834,Hatchback,6338994,Middletown,2022,10,202210,Muy Alto
+C_CND_007202,2022-10-25,Devora,Male,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,GTI,Overhead Camshaft,Manual,Black,25000,06457-3834,SUV,7802172,Middletown,2022,10,202210,Bajo
+C_CND_007279,2022-10-29,Gabriel,Male,13500,Buddy Storbeck's Diesel Service Inc,Cadillac,Eldorado,DoubleÂ Overhead Camshaft,Auto,Red,31000,06457-3834,Passenger,7298981,Pasco,2022,10,202210,Bajo
+C_CND_007289,2022-10-30,London,Male,620000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Cavalier,Overhead Camshaft,Manual,Pale White,28000,06457-3834,SUV,6959662,Middletown,2022,10,202210,Medio-Alto
+C_CND_007327,2022-10-31,Ian,Male,800000,Buddy Storbeck's Diesel Service Inc,Volvo,S40,Overhead Camshaft,Manual,Black,36000,06457-3834,Sedan,6383658,Middletown,2022,10,202210,Alto
+C_CND_007381,2022-10-31,Francesca,Male,910000,Buddy Storbeck's Diesel Service Inc,Toyota,Corolla,Overhead Camshaft,Manual,Red,14000,06457-3834,Passenger,8761146,Middletown,2022,10,202210,Alto
+C_CND_007441,2022-11-01,Maxence,Male,1200000,Buddy Storbeck's Diesel Service Inc,Lexus,RX300,Overhead Camshaft,Manual,Black,18000,06457-3834,Hardtop,7248186,Middletown,2022,11,202211,Muy Alto
+C_CND_007475,2022-11-02,Riley,Female,490000,Buddy Storbeck's Diesel Service Inc,Lincoln,Town car,DoubleÂ Overhead Camshaft,Auto,Black,26000,06457-3834,Hatchback,7668482,Middletown,2022,11,202211,Medio
+C_CND_007483,2022-11-02,Hersh,Male,13500,Buddy Storbeck's Diesel Service Inc,Hyundai,Sonata,Overhead Camshaft,Manual,Black,15000,06457-3834,SUV,8678089,Middletown,2022,11,202211,Bajo
+C_CND_007505,2022-11-02,Jayson,Male,13500,Buddy Storbeck's Diesel Service Inc,Nissan,Quest,Overhead Camshaft,Manual,Black,12000,06457-3834,SUV,6199912,Janesville,2022,11,202211,Bajo
+C_CND_007545,2022-11-05,Joaquin,Male,1310000,Buddy Storbeck's Diesel Service Inc,Cadillac,Catera,DoubleÂ Overhead Camshaft,Auto,Red,28000,06457-3834,Hatchback,8800638,Middletown,2022,11,202211,Muy Alto
+C_CND_007659,2022-11-07,Kelvin,Male,13500,Buddy Storbeck's Diesel Service Inc,Acura,TL,DoubleÂ Overhead Camshaft,Auto,Red,24000,06457-3834,Hatchback,7922814,Janesville,2022,11,202211,Bajo
+C_CND_007679,2022-11-08,Louis,Male,340000,Buddy Storbeck's Diesel Service Inc,BMW,328i,DoubleÂ Overhead Camshaft,Auto,Black,18000,06457-3834,Sedan,8015642,Middletown,2022,11,202211,Medio
+C_CND_007689,2022-11-08,Abril,Male,13500,Buddy Storbeck's Diesel Service Inc,Buick,Park Avenue,DoubleÂ Overhead Camshaft,Auto,Pale White,62000,06457-3834,Hatchback,8305350,Middletown,2022,11,202211,Bajo
+C_CND_007715,2022-11-08,Leo,Female,410000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,Overhead Camshaft,Manual,Black,69000,06457-3834,Sedan,7854352,Middletown,2022,11,202211,Medio
+C_CND_007763,2022-11-08,Leona,Male,13500,Buddy Storbeck's Diesel Service Inc,Nissan,Frontier,DoubleÂ Overhead Camshaft,Auto,Pale White,26000,06457-3834,Hatchback,6970194,Middletown,2022,11,202211,Bajo
+C_CND_007768,2022-11-08,Mathis,Male,770000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,16000,06457-3834,Hardtop,6180675,Middletown,2022,11,202211,Alto
+C_CND_007826,2022-11-09,Empty,Male,422000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,16001,06457-3834,Hardtop,8300318,Middletown,2022,11,202211,Medio
+C_CND_007833,2022-11-09,Michael,Male,632000,Buddy Storbeck's Diesel Service Inc,Buick,Regal,DoubleÂ Overhead Camshaft,Auto,Pale White,46000,06457-3834,Passenger,7648697,Middletown,2022,11,202211,Medio-Alto
+C_CND_007857,2022-11-09,Michael,Male,330000,Buddy Storbeck's Diesel Service Inc,Toyota,Land Cruiser,DoubleÂ Overhead Camshaft,Auto,Black,21000,06457-3834,SUV,6554549,Janesville,2022,11,202211,Medio
+C_CND_007916,2022-11-12,Oscar,Male,1550000,Buddy Storbeck's Diesel Service Inc,Acura,RL,Overhead Camshaft,Manual,Red,34001,06457-3834,SUV,8362405,Middletown,2022,11,202211,Muy Alto
+C_CND_007956,2022-11-12,Kendra,Male,1527500,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,DoubleÂ Overhead Camshaft,Auto,Black,17750,06457-3834,Hatchback,6976523,Scottsdale,2022,11,202211,Muy Alto
+C_CND_008003,2022-11-13,Cataleya,Male,1375000,Buddy Storbeck's Diesel Service Inc,Subaru,Outback,DoubleÂ Overhead Camshaft,Auto,Pale White,19501,06457-3834,SUV,8418642,Middletown,2022,11,202211,Muy Alto
+C_CND_008023,2022-11-13,Reid,Male,670000,Buddy Storbeck's Diesel Service Inc,Jaguar,S-Type,DoubleÂ Overhead Camshaft,Auto,Black,16000,06457-3834,Passenger,8459332,Middletown,2022,11,202211,Medio-Alto
+C_CND_008029,2022-11-13,Mary,Male,13500,Buddy Storbeck's Diesel Service Inc,Nissan,Frontier,Overhead Camshaft,Manual,Pale White,12000,06457-3834,Hatchback,6168873,Middletown,2022,11,202211,Bajo
+C_CND_008082,2022-11-14,Tristan,Male,880000,Buddy Storbeck's Diesel Service Inc,Plymouth,Neon,DoubleÂ Overhead Camshaft,Auto,Black,9000,06457-3834,SUV,6585464,Middletown,2022,11,202211,Alto
+C_CND_008106,2022-11-14,Romain,Female,555000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Malibu,Overhead Camshaft,Manual,Red,24001,06457-3834,Hardtop,8867294,Middletown,2022,11,202211,Medio-Alto
+C_CND_008130,2022-11-14,Mariah,Male,965000,Buddy Storbeck's Diesel Service Inc,Mercury,Sable,DoubleÂ Overhead Camshaft,Auto,Pale White,26000,06457-3834,Sedan,6532980,Scottsdale,2022,11,202211,Alto
+C_CND_008161,2022-11-15,Noemie,Male,1600000,Buddy Storbeck's Diesel Service Inc,Pontiac,Firebird,Overhead Camshaft,Manual,Black,43000,06457-3834,Hardtop,7703387,Middletown,2022,11,202211,Muy Alto
+C_CND_008211,2022-11-16,Abigail,Male,13500,Buddy Storbeck's Diesel Service Inc,Volvo,C70,DoubleÂ Overhead Camshaft,Auto,Black,49000,06457-3834,Hatchback,7931224,Middletown,2022,11,202211,Bajo
+C_CND_008308,2022-11-19,Rachel,Male,13500,Buddy Storbeck's Diesel Service Inc,Hyundai,Sonata,Overhead Camshaft,Manual,Black,20000,06457-3834,SUV,6931601,Scottsdale,2022,11,202211,Bajo
+C_CND_008312,2022-11-20,Anthony,Male,836000,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Coupe,Overhead Camshaft,Manual,Black,16001,06457-3834,Hatchback,6103320,Middletown,2022,11,202211,Alto
+C_CND_008383,2022-11-20,Charlotte,Male,645000,Buddy Storbeck's Diesel Service Inc,Mercury,Cougar,DoubleÂ Overhead Camshaft,Auto,Black,33000,06457-3834,Hatchback,7372876,Middletown,2022,11,202211,Medio-Alto
+C_CND_008393,2022-11-20,Rowan,Male,13500,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,DoubleÂ Overhead Camshaft,Auto,Black,18000,06457-3834,Hatchback,6506460,Middletown,2022,11,202211,Bajo
+C_CND_008450,2022-11-21,Cameron,Female,13500,Buddy Storbeck's Diesel Service Inc,Pontiac,Sunfire,Overhead Camshaft,Manual,Red,43000,06457-3834,Sedan,7700932,Middletown,2022,11,202211,Bajo
+C_CND_008457,2022-11-21,Jean,Male,13500,Buddy Storbeck's Diesel Service Inc,Dodge,Stratus,DoubleÂ Overhead Camshaft,Auto,Red,31001,06457-3834,Hatchback,8694186,Middletown,2022,11,202211,Bajo
+C_CND_008519,2022-11-21,Timothy,Male,1225000,Buddy Storbeck's Diesel Service Inc,Ford,Crown Victoria,DoubleÂ Overhead Camshaft,Auto,Red,29500,06457-3834,Passenger,7220724,Middletown,2022,11,202211,Muy Alto
+C_CND_008529,2022-11-21,Eulaly,Male,402500,Buddy Storbeck's Diesel Service Inc,Ford,Focus,Overhead Camshaft,Manual,Red,17500,06457-3834,Hardtop,8982711,Middletown,2022,11,202211,Medio
+C_CND_008530,2022-11-21,Violeta,Male,1360000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK230,Overhead Camshaft,Manual,Red,71000,06457-3834,Hatchback,7407076,Scottsdale,2022,11,202211,Muy Alto
+C_CND_008631,2022-11-23,Jannat,Male,13500,Buddy Storbeck's Diesel Service Inc,Cadillac,Eldorado,Overhead Camshaft,Manual,Red,31001,06457-3834,Passenger,6184531,Middletown,2022,11,202211,Bajo
+C_CND_008637,2022-11-23,Camille,Male,2670000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Prizm,DoubleÂ Overhead Camshaft,Auto,Black,16001,06457-3834,Hardtop,8806509,Middletown,2022,11,202211,Muy Alto
+C_CND_008670,2022-11-24,Eric,Male,13500,Buddy Storbeck's Diesel Service Inc,Mercury,Villager,Overhead Camshaft,Manual,Pale White,14000,06457-3834,Passenger,6720936,Middletown,2022,11,202211,Bajo
+C_CND_008777,2022-11-27,Moises,Male,766000,Buddy Storbeck's Diesel Service Inc,BMW,328i,DoubleÂ Overhead Camshaft,Auto,Black,18001,06457-3834,Sedan,6029464,Middletown,2022,11,202211,Alto
+C_CND_008785,2022-11-27,Mathieu,Female,847000,Buddy Storbeck's Diesel Service Inc,Subaru,Forester,DoubleÂ Overhead Camshaft,Auto,Black,22001,06457-3834,Hardtop,7881077,Middletown,2022,11,202211,Alto
+C_CND_008791,2022-11-27,Mina,Male,800000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Van,DoubleÂ Overhead Camshaft,Auto,Red,31000,06457-3834,Hatchback,8536259,Middletown,2022,11,202211,Alto
+C_CND_008804,2022-11-27,Enrique,Male,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Corvette,DoubleÂ Overhead Camshaft,Auto,Red,45000,06457-3834,SUV,8118209,Middletown,2022,11,202211,Bajo
+C_CND_008892,2022-11-28,Brucha,Male,900000,Buddy Storbeck's Diesel Service Inc,Dodge,Durango,Overhead Camshaft,Manual,Red,31000,06457-3834,SUV,8727751,Middletown,2022,11,202211,Alto
+C_CND_008896,2022-11-29,Jake,Male,620000,Buddy Storbeck's Diesel Service Inc,Nissan,Xterra,DoubleÂ Overhead Camshaft,Auto,Black,9000,06457-3834,Passenger,8041850,Middletown,2022,11,202211,Medio-Alto
+C_CND_008963,2022-11-30,Elisheva,Male,13500,Buddy Storbeck's Diesel Service Inc,Dodge,Caravan,Overhead Camshaft,Manual,Red,24000,06457-3834,Hardtop,8480185,Middletown,2022,11,202211,Bajo
+C_CND_008973,2022-11-30,Sergio,Male,900000,Buddy Storbeck's Diesel Service Inc,Nissan,Maxima,Overhead Camshaft,Manual,Pale White,22001,06457-3834,Sedan,8753339,Middletown,2022,11,202211,Alto
+C_CND_008985,2022-11-30,Zahra,Male,13500,Buddy Storbeck's Diesel Service Inc,Acura,Integra,DoubleÂ Overhead Camshaft,Auto,Black,45001,06457-3834,Passenger,6820737,Middletown,2022,11,202211,Bajo
+C_CND_008996,2022-11-30,Jaden,Male,1060000,Buddy Storbeck's Diesel Service Inc,Acura,TL,DoubleÂ Overhead Camshaft,Auto,Black,23000,06457-3834,Hatchback,8273707,Middletown,2022,11,202211,Muy Alto
+C_CND_009034,2022-12-01,Lukas,Male,1411000,Buddy Storbeck's Diesel Service Inc,Mercury,Grand Marquis,Overhead Camshaft,Manual,Red,71101,06457-3834,SUV,7722001,Middletown,2022,12,202212,Muy Alto
+C_CND_009086,2022-12-01,Dina,Male,13500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Aurora,Overhead Camshaft,Manual,Red,34000,06457-3834,Passenger,7673648,Austin,2022,12,202212,Bajo
+C_CND_009148,2022-12-03,Amina,Male,1380000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Golf,DoubleÂ Overhead Camshaft,Auto,Pale White,18000,06457-3834,Hardtop,6844250,Middletown,2022,12,202212,Muy Alto
+C_CND_009153,2022-12-03,Jorge,Male,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,Golf,Overhead Camshaft,Manual,Red,25001,06457-3834,SUV,7267881,Middletown,2022,12,202212,Bajo
+C_CND_009205,2022-12-04,Ava,Male,440000,Buddy Storbeck's Diesel Service Inc,Toyota,Camry,DoubleÂ Overhead Camshaft,Auto,Red,31001,06457-3834,Hatchback,7383172,Middletown,2022,12,202212,Medio
+C_CND_009260,2022-12-05,Nathaniel,Male,2450000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,3000GT,DoubleÂ Overhead Camshaft,Auto,Pale White,12000,06457-3834,Sedan,7003161,Middletown,2022,12,202212,Muy Alto
+C_CND_009304,2022-12-05,Fraidy,Male,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Camaro,DoubleÂ Overhead Camshaft,Auto,Black,41000,06457-3834,Sedan,7228470,Austin,2022,12,202212,Bajo
+C_CND_009354,2022-12-06,Brian,Male,677500,Buddy Storbeck's Diesel Service Inc,Lexus,GS400,DoubleÂ Overhead Camshaft,Auto,Pale White,31501,06457-3834,Hatchback,7619623,Middletown,2022,12,202212,Medio-Alto
+C_CND_009376,2022-12-06,Janelle,Male,1064000,Buddy Storbeck's Diesel Service Inc,Audi,A6,DoubleÂ Overhead Camshaft,Auto,Black,14400,06457-3834,SUV,7616861,Middletown,2022,12,202212,Muy Alto
+C_CND_009395,2022-12-06,Mark,Male,961000,Buddy Storbeck's Diesel Service Inc,Toyota,Tacoma,Overhead Camshaft,Manual,Pale White,24000,06457-3834,SUV,7110146,Middletown,2022,12,202212,Alto
+C_CND_009442,2022-12-07,Santino,Male,1230000,Buddy Storbeck's Diesel Service Inc,Acura,RL,Overhead Camshaft,Manual,Pale White,17000,06457-3834,SUV,6819537,Middletown,2022,12,202212,Muy Alto
+C_CND_009473,2022-12-07,Christian,Female,370000,Buddy Storbeck's Diesel Service Inc,Ford,Mustang,DoubleÂ Overhead Camshaft,Auto,Pale White,31000,06457-3834,Hatchback,8479948,Scottsdale,2022,12,202212,Medio
+C_CND_009491,2022-12-08,Samantha,Male,1000000,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Coupe,Overhead Camshaft,Manual,Pale White,26001,06457-3834,Hardtop,7877559,Scottsdale,2022,12,202212,Alto
+C_CND_009547,2022-12-10,Elijah,Male,13500,Buddy Storbeck's Diesel Service Inc,Cadillac,Eldorado,Overhead Camshaft,Manual,Pale White,37001,06457-3834,Passenger,6188804,Middletown,2022,12,202212,Bajo
+C_CND_009566,2022-12-10,Mariama,Male,13500,Buddy Storbeck's Diesel Service Inc,Hyundai,Sonata,Overhead Camshaft,Manual,Black,15000,06457-3834,SUV,6706895,Middletown,2022,12,202212,Bajo
+C_CND_009583,2022-12-10,Ricardo,Male,1322000,Buddy Storbeck's Diesel Service Inc,Mercury,Grand Marquis,DoubleÂ Overhead Camshaft,Auto,Black,19200,06457-3834,SUV,7721657,Middletown,2022,12,202212,Muy Alto
+C_CND_009624,2022-12-11,William,Male,1400000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,DoubleÂ Overhead Camshaft,Auto,Black,18000,06457-3834,Hatchback,6801240,Middletown,2022,12,202212,Muy Alto
+C_CND_009750,2022-12-12,Sarah,Male,850000,Buddy Storbeck's Diesel Service Inc,Volvo,S80,Overhead Camshaft,Manual,Pale White,21000,06457-3834,Sedan,8026107,Middletown,2022,12,202212,Alto
+C_CND_009754,2022-12-12,Elena,Male,13500,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Coupe,DoubleÂ Overhead Camshaft,Auto,Pale White,22000,06457-3834,Hardtop,7562563,Middletown,2022,12,202212,Bajo
+C_CND_009763,2022-12-12,Yaniel,Male,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,Golf,Overhead Camshaft,Manual,Pale White,17001,06457-3834,SUV,6378562,Middletown,2022,12,202212,Bajo
+C_CND_009833,2022-12-13,Luke,Male,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,Passat,DoubleÂ Overhead Camshaft,Auto,Pale White,31000,06457-3834,Hatchback,7642850,Scottsdale,2022,12,202212,Bajo
+C_CND_009838,2022-12-14,Simone,Male,1495000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,CL500,Overhead Camshaft,Manual,Pale White,29500,06457-3834,SUV,7628889,Middletown,2022,12,202212,Muy Alto
+C_CND_009929,2022-12-15,Avi,Male,1102000,Buddy Storbeck's Diesel Service Inc,Acura,TL,Overhead Camshaft,Manual,Pale White,14200,06457-3834,Hatchback,8553601,Middletown,2022,12,202212,Muy Alto
+C_CND_009959,2022-12-17,Justin,Male,900000,Buddy Storbeck's Diesel Service Inc,BMW,328i,DoubleÂ Overhead Camshaft,Auto,Black,16001,06457-3834,Sedan,6444805,Middletown,2022,12,202212,Alto
+C_CND_009970,2022-12-17,Adrianna,Male,720000,Buddy Storbeck's Diesel Service Inc,Toyota,Camry,Overhead Camshaft,Manual,Black,29001,06457-3834,Hatchback,7363131,Middletown,2022,12,202212,Medio-Alto
+C_CND_010012,2022-12-18,Yocheved,Male,1290000,Buddy Storbeck's Diesel Service Inc,Cadillac,DeVille,DoubleÂ Overhead Camshaft,Auto,Pale White,22001,06457-3834,SUV,8454242,Middletown,2022,12,202212,Muy Alto
+C_CND_010035,2022-12-18,Samuel,Male,1555000,Buddy Storbeck's Diesel Service Inc,Mercury,Grand Marquis,Overhead Camshaft,Manual,Pale White,16500,06457-3834,SUV,6331191,Austin,2022,12,202212,Muy Alto
+C_CND_010130,2022-12-20,Mendel,Male,325000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Silhouette,Overhead Camshaft,Manual,Pale White,14001,06457-3834,Sedan,6923099,Middletown,2022,12,202212,Medio
+C_CND_010138,2022-12-20,Arely,Male,2300000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,DoubleÂ Overhead Camshaft,Auto,Pale White,21000,06457-3834,Hatchback,6590054,Middletown,2022,12,202212,Muy Alto
+C_CND_010145,2022-12-20,Connor,Male,13500,Buddy Storbeck's Diesel Service Inc,Chrysler,Concorde,DoubleÂ Overhead Camshaft,Auto,Pale White,46000,06457-3834,SUV,8954407,Middletown,2022,12,202212,Bajo
+C_CND_010217,2022-12-21,Alexander,Male,822000,Buddy Storbeck's Diesel Service Inc,Cadillac,Escalade,DoubleÂ Overhead Camshaft,Auto,Pale White,38000,06457-3834,Sedan,7364764,Austin,2022,12,202212,Alto
+C_CND_010222,2022-12-22,Charles,Male,1620000,Buddy Storbeck's Diesel Service Inc,Mercury,Grand Marquis,DoubleÂ Overhead Camshaft,Auto,Black,9000,06457-3834,SUV,8328440,Middletown,2022,12,202212,Muy Alto
+C_CND_010296,2022-12-24,Cynthia,Male,730000,Buddy Storbeck's Diesel Service Inc,BMW,323i,DoubleÂ Overhead Camshaft,Auto,Pale White,19001,06457-3834,Hatchback,8870797,Middletown,2022,12,202212,Medio-Alto
+C_CND_010311,2022-12-24,Gavin,Female,870000,Buddy Storbeck's Diesel Service Inc,Saturn,SC,Overhead Camshaft,Manual,Pale White,61000,06457-3834,SUV,7219080,Middletown,2022,12,202212,Alto
+C_CND_010327,2022-12-24,Meyer,Male,13500,Buddy Storbeck's Diesel Service Inc,Mercury,Mountaineer,DoubleÂ Overhead Camshaft,Auto,Pale White,21000,06457-3834,Hardtop,8185604,Middletown,2022,12,202212,Bajo
+C_CND_010353,2022-12-25,Pinchas,Male,13500,Buddy Storbeck's Diesel Service Inc,BMW,323i,Overhead Camshaft,Manual,Pale White,21001,06457-3834,Hatchback,6238201,Middletown,2022,12,202212,Bajo
+C_CND_010413,2022-12-25,Damian,Male,170000,Buddy Storbeck's Diesel Service Inc,Volvo,C70,Overhead Camshaft,Manual,Black,17000,06457-3834,Hatchback,6029174,Aurora,2022,12,202212,Medio-Bajo
+C_CND_010418,2022-12-26,Jason,Male,13500,Buddy Storbeck's Diesel Service Inc,Mercedes-B,CL500,Overhead Camshaft,Manual,Black,22000,06457-3834,SUV,8545048,Middletown,2022,12,202212,Bajo
+C_CND_010481,2022-12-27,Shmuel,Male,1410000,Buddy Storbeck's Diesel Service Inc,Lincoln,Navigator,Overhead Camshaft,Manual,Pale White,33001,06457-3834,Sedan,7304660,Middletown,2022,12,202212,Muy Alto
+C_CND_010489,2022-12-27,Maxime,Female,13500,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SL-Class,Overhead Camshaft,Manual,Black,38000,06457-3834,Hardtop,8854953,Middletown,2022,12,202212,Bajo
+C_CND_010500,2022-12-27,Geraldine,Male,977000,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,DoubleÂ Overhead Camshaft,Auto,Black,41000,06457-3834,SUV,6788168,Middletown,2022,12,202212,Alto
+C_CND_010518,2022-12-27,Jordan,Female,765000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Bravada,Overhead Camshaft,Manual,Black,17000,06457-3834,Hatchback,7438195,Middletown,2022,12,202212,Alto
+C_CND_010596,2022-12-31,Nathan,Male,1245000,Buddy Storbeck's Diesel Service Inc,Mercury,Villager,Overhead Camshaft,Manual,Pale White,16500,06457-3834,Passenger,8488798,Middletown,2022,12,202212,Muy Alto
+C_CND_010635,2022-12-31,Ezekiel,Male,13500,Buddy Storbeck's Diesel Service Inc,Hyundai,Sonata,Overhead Camshaft,Manual,Red,21000,06457-3834,SUV,8556258,Aurora,2022,12,202212,Bajo
+C_CND_010708,2023-01-05,Jaylah,Male,932000,Buddy Storbeck's Diesel Service Inc,Volvo,S40,Overhead Camshaft,Manual,Pale White,17000,06457-3834,Sedan,7467088,Middletown,2023,1,202301,Alto
+C_CND_010720,2023-01-07,Yosef,Female,590500,Buddy Storbeck's Diesel Service Inc,Chrysler,300M,DoubleÂ Overhead Camshaft,Auto,Red,16501,06457-3834,SUV,6373504,Middletown,2023,1,202301,Medio-Alto
+C_CND_010785,2023-01-10,Jariel,Male,850000,Buddy Storbeck's Diesel Service Inc,BMW,323i,DoubleÂ Overhead Camshaft,Auto,Red,22000,06457-3834,Hatchback,6604247,Austin,2023,1,202301,Alto
+C_CND_010789,2023-01-11,Zayan,Male,1450000,Buddy Storbeck's Diesel Service Inc,Ford,Escort,DoubleÂ Overhead Camshaft,Auto,Red,15000,06457-3834,Passenger,7448602,Middletown,2023,1,202301,Muy Alto
+C_CND_010883,2023-01-17,Omar,Male,442000,Buddy Storbeck's Diesel Service Inc,Lexus,GS400,DoubleÂ Overhead Camshaft,Auto,Black,12001,06457-3834,Hatchback,6617636,Middletown,2023,1,202301,Medio
+C_CND_010906,2023-01-21,Keily,Male,13500,Buddy Storbeck's Diesel Service Inc,Pontiac,Sunfire,DoubleÂ Overhead Camshaft,Auto,Black,18000,06457-3834,Sedan,6560473,Middletown,2023,1,202301,Bajo
+C_CND_010959,2023-01-22,Mathilde,Male,1000000,Buddy Storbeck's Diesel Service Inc,Dodge,Caravan,DoubleÂ Overhead Camshaft,Auto,Pale White,38001,06457-3834,Hardtop,8846658,Middletown,2023,1,202301,Alto
+C_CND_010983,2023-01-23,Carmelo,Male,13500,Buddy Storbeck's Diesel Service Inc,Toyota,Celica,DoubleÂ Overhead Camshaft,Auto,Pale White,31000,06457-3834,SUV,6042122,Middletown,2023,1,202301,Bajo
+C_CND_011099,2023-01-31,Tzipora,Male,1840000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Impala,Overhead Camshaft,Manual,Pale White,14000,06457-3834,Hatchback,7756510,Middletown,2023,1,202301,Muy Alto
+C_CND_011103,2023-01-31,Maya,Male,1735000,Buddy Storbeck's Diesel Service Inc,BMW,528i,Overhead Camshaft,Manual,Black,21500,06457-3834,SUV,6739138,Middletown,2023,1,202301,Muy Alto
+C_CND_011114,2023-01-31,Enzo,Male,907000,Buddy Storbeck's Diesel Service Inc,Ford,Ranger,DoubleÂ Overhead Camshaft,Auto,Black,61001,06457-3834,Hardtop,8678195,Middletown,2023,1,202301,Alto
+C_CND_011175,2023-02-04,Kenzo,Male,1208000,Buddy Storbeck's Diesel Service Inc,Chrysler,Sebring Coupe,Overhead Camshaft,Manual,Black,12801,06457-3834,Sedan,6732926,Aurora,2023,2,202302,Muy Alto
+C_CND_011177,2023-02-05,Ian,Male,625000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Malibu,Overhead Camshaft,Manual,Pale White,41000,06457-3834,Hatchback,6659414,Middletown,2023,2,202302,Medio-Alto
+C_CND_011281,2023-02-08,Rebecca,Male,2300000,Buddy Storbeck's Diesel Service Inc,Audi,A6,Overhead Camshaft,Manual,Black,25000,06457-3834,SUV,6346917,Middletown,2023,2,202302,Muy Alto
+C_CND_011288,2023-02-09,Allen,Female,1220000,Buddy Storbeck's Diesel Service Inc,Dodge,Durango,DoubleÂ Overhead Camshaft,Auto,Red,22000,06457-3834,SUV,6852640,Middletown,2023,2,202302,Muy Alto
+C_CND_011355,2023-02-16,Justice,Male,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,Passat,DoubleÂ Overhead Camshaft,Auto,Black,9000,06457-3834,Hatchback,6829571,Middletown,2023,2,202302,Bajo
+C_CND_011447,2023-02-21,Devin,Male,1234000,Buddy Storbeck's Diesel Service Inc,Toyota,Celica,Overhead Camshaft,Manual,Pale White,14400,06457-3834,SUV,8126911,Middletown,2023,2,202302,Muy Alto
+C_CND_011457,2023-02-21,Valentina,Female,13500,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,DoubleÂ Overhead Camshaft,Auto,Pale White,21001,06457-3834,Hatchback,7023659,Middletown,2023,2,202302,Bajo
+C_CND_011465,2023-02-21,Aria,Female,13500,Buddy Storbeck's Diesel Service Inc,Nissan,Altima,DoubleÂ Overhead Camshaft,Auto,Pale White,20001,06457-3834,Hatchback,7638534,Middletown,2023,2,202302,Bajo
+C_CND_011561,2023-03-03,Miles,Female,465000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,20000,06457-3834,Hatchback,7281559,Middletown,2023,3,202303,Medio
+C_CND_011621,2023-03-03,Empty,Male,1070000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Jetta,DoubleÂ Overhead Camshaft,Auto,Red,33001,06457-3834,Passenger,6439642,Janesville,2023,3,202303,Muy Alto
+C_CND_011650,2023-03-04,Fiona,Female,2600000,Buddy Storbeck's Diesel Service Inc,Ford,Crown Victoria,DoubleÂ Overhead Camshaft,Auto,Red,29001,06457-3834,Passenger,7399322,Middletown,2023,3,202303,Muy Alto
+C_CND_011661,2023-03-05,Amira,Male,480000,Buddy Storbeck's Diesel Service Inc,Saturn,LS,Overhead Camshaft,Manual,Pale White,14000,06457-3834,Sedan,8180849,Middletown,2023,3,202303,Medio
+C_CND_011673,2023-03-06,Jayden,Male,820000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Monte Carlo,Overhead Camshaft,Manual,Red,17000,06457-3834,Hatchback,8050139,Middletown,2023,3,202303,Alto
+C_CND_011715,2023-03-08,Travis,Male,400000,Buddy Storbeck's Diesel Service Inc,BMW,528i,DoubleÂ Overhead Camshaft,Auto,Black,31001,06457-3834,SUV,7562838,Middletown,2023,3,202303,Medio
+C_CND_011767,2023-03-08,Anaelle,Male,712500,Buddy Storbeck's Diesel Service Inc,Dodge,Viper,DoubleÂ Overhead Camshaft,Auto,Pale White,25501,06457-3834,SUV,8327165,Scottsdale,2023,3,202303,Medio-Alto
+C_CND_011787,2023-03-09,Raphael,Female,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Prizm,Overhead Camshaft,Manual,Black,16001,06457-3834,Hardtop,8077490,Middletown,2023,3,202303,Bajo
+C_CND_011847,2023-03-11,Brooklyn,Male,13500,Buddy Storbeck's Diesel Service Inc,Lexus,LX470,DoubleÂ Overhead Camshaft,Auto,Black,22000,06457-3834,SUV,6628060,Middletown,2023,3,202303,Bajo
+C_CND_011850,2023-03-11,Leela,Male,13500,Buddy Storbeck's Diesel Service Inc,Jeep,Grand Cherokee,Overhead Camshaft,Manual,Red,21000,06457-3834,SUV,6327438,Middletown,2023,3,202303,Bajo
+C_CND_011869,2023-03-12,Nathan,Male,570000,Buddy Storbeck's Diesel Service Inc,BMW,328i,DoubleÂ Overhead Camshaft,Auto,Black,16000,06457-3834,Sedan,8299187,Middletown,2023,3,202303,Medio-Alto
+C_CND_011905,2023-03-13,Andrew,Female,380000,Buddy Storbeck's Diesel Service Inc,Volvo,S70,Overhead Camshaft,Manual,Black,22000,06457-3834,Hatchback,8162983,Middletown,2023,3,202303,Medio
+C_CND_011993,2023-03-13,Pierrick,Male,460000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Aurora,Overhead Camshaft,Manual,Red,71001,06457-3834,Passenger,8479257,Scottsdale,2023,3,202303,Medio
+C_CND_012026,2023-03-14,Eliana,Male,2200000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,DoubleÂ Overhead Camshaft,Auto,Pale White,18000,06457-3834,Sedan,7286106,Middletown,2023,3,202303,Muy Alto
+C_CND_012031,2023-03-14,Syeda,Female,13500,Buddy Storbeck's Diesel Service Inc,Dodge,Dakota,DoubleÂ Overhead Camshaft,Auto,Pale White,21000,06457-3834,Sedan,7110613,Middletown,2023,3,202303,Bajo
+C_CND_012051,2023-03-15,Zachary,Male,13500,Buddy Storbeck's Diesel Service Inc,Lincoln,Continental,Overhead Camshaft,Manual,Black,42000,06457-3834,Passenger,6667352,Middletown,2023,3,202303,Bajo
+C_CND_012097,2023-03-17,Naomi,Male,952000,Buddy Storbeck's Diesel Service Inc,Nissan,Pathfinder,DoubleÂ Overhead Camshaft,Auto,Red,21001,06457-3834,SUV,8654672,Middletown,2023,3,202303,Alto
+C_CND_012125,2023-03-19,Aliyah,Female,930000,Buddy Storbeck's Diesel Service Inc,Acura,RL,Overhead Camshaft,Manual,Black,18000,06457-3834,SUV,8220068,Middletown,2023,3,202303,Alto
+C_CND_012143,2023-03-19,Elie,Male,2201000,Buddy Storbeck's Diesel Service Inc,Ford,Crown Victoria,DoubleÂ Overhead Camshaft,Auto,Red,29101,06457-3834,Passenger,6796400,Austin,2023,3,202303,Muy Alto
+C_CND_012226,2023-03-24,Giovanna,Female,13500,Buddy Storbeck's Diesel Service Inc,Jeep,Grand Cherokee,Overhead Camshaft,Manual,Pale White,15000,06457-3834,SUV,8837992,Middletown,2023,3,202303,Bajo
+C_CND_012228,2023-03-24,Anaya,Female,3500000,Buddy Storbeck's Diesel Service Inc,Audi,A6,DoubleÂ Overhead Camshaft,Auto,Pale White,42000,06457-3834,SUV,6042168,Middletown,2023,3,202303,Muy Alto
+C_CND_012284,2023-03-27,Evan,Male,800000,Buddy Storbeck's Diesel Service Inc,Infiniti,I30,DoubleÂ Overhead Camshaft,Auto,Pale White,51000,06457-3834,SUV,7359933,Middletown,2023,3,202303,Alto
+C_CND_012306,2023-03-29,Eileen,Male,1302000,Buddy Storbeck's Diesel Service Inc,Honda,Civic,Overhead Camshaft,Manual,Black,43201,06457-3834,Hatchback,6735639,Middletown,2023,3,202303,Muy Alto
+C_CND_012341,2023-03-29,Arthur,Male,762000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,DoubleÂ Overhead Camshaft,Auto,Black,22001,06457-3834,Sedan,8151213,Austin,2023,3,202303,Alto
+C_CND_012410,2023-04-01,Juliet,Male,670000,Buddy Storbeck's Diesel Service Inc,Plymouth,Voyager,Overhead Camshaft,Manual,Red,20000,06457-3834,Passenger,7005990,Middletown,2023,4,202304,Medio-Alto
+C_CND_012424,2023-04-01,Fatoumata,Male,1615000,Buddy Storbeck's Diesel Service Inc,Volvo,S40,DoubleÂ Overhead Camshaft,Auto,Red,29500,06457-3834,Sedan,8610412,Middletown,2023,4,202304,Muy Alto
+C_CND_012508,2023-04-05,Joyce,Male,1890000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,CL500,Overhead Camshaft,Manual,Black,22000,06457-3834,SUV,8346542,Middletown,2023,4,202304,Muy Alto
+C_CND_012511,2023-04-05,Sacha,Male,925000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Passat,DoubleÂ Overhead Camshaft,Auto,Red,13000,06457-3834,Hatchback,6323192,Middletown,2023,4,202304,Alto
+C_CND_012519,2023-04-05,Lexi,Male,13500,Buddy Storbeck's Diesel Service Inc,Volvo,C70,DoubleÂ Overhead Camshaft,Auto,Black,18001,06457-3834,Hatchback,7734754,Janesville,2023,4,202304,Bajo
+C_CND_012602,2023-04-08,Madeline,Male,250000,Buddy Storbeck's Diesel Service Inc,Volkswagen,GTI,DoubleÂ Overhead Camshaft,Auto,Red,25001,06457-3834,SUV,8774130,Middletown,2023,4,202304,Medio-Bajo
+C_CND_012617,2023-04-08,Laila,Female,1815000,Buddy Storbeck's Diesel Service Inc,Honda,CR-V,DoubleÂ Overhead Camshaft,Auto,Pale White,22501,06457-3834,SUV,8539413,Middletown,2023,4,202304,Muy Alto
+C_CND_012704,2023-04-10,Laura,Male,1465000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Silhouette,Overhead Camshaft,Manual,Pale White,15501,06457-3834,Sedan,7982170,Pasco,2023,4,202304,Muy Alto
+C_CND_012706,2023-04-12,Renee,Male,1060000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK,DoubleÂ Overhead Camshaft,Auto,Pale White,46001,06457-3834,Passenger,6659801,Middletown,2023,4,202304,Muy Alto
+C_CND_012784,2023-04-14,Paris,Male,13500,Buddy Storbeck's Diesel Service Inc,Dodge,Durango,Overhead Camshaft,Manual,Black,22000,06457-3834,SUV,7627715,Middletown,2023,4,202304,Bajo
+C_CND_012810,2023-04-15,Penelope,Male,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,Jetta,Overhead Camshaft,Manual,Red,24000,06457-3834,Passenger,7613602,Middletown,2023,4,202304,Bajo
+C_CND_012894,2023-04-17,Theo,Female,653000,Buddy Storbeck's Diesel Service Inc,Pontiac,Grand Am,DoubleÂ Overhead Camshaft,Auto,Pale White,12001,06457-3834,SUV,6528737,Pasco,2023,4,202304,Medio-Alto
+C_CND_012896,2023-04-18,Alana,Male,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Cavalier,Overhead Camshaft,Manual,Pale White,14000,06457-3834,SUV,7337037,Middletown,2023,4,202304,Bajo
+C_CND_012907,2023-04-18,Line,Male,2350000,Buddy Storbeck's Diesel Service Inc,Volvo,S40,Overhead Camshaft,Manual,Red,22000,06457-3834,Sedan,8743776,Middletown,2023,4,202304,Muy Alto
+C_CND_012982,2023-04-19,Shira,Male,13500,Buddy Storbeck's Diesel Service Inc,Subaru,Outback,DoubleÂ Overhead Camshaft,Auto,Red,57000,06457-3834,SUV,7441708,Middletown,2023,4,202304,Bajo
+C_CND_012994,2023-04-19,Victoria,Male,773000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Lumina,Overhead Camshaft,Manual,Black,42000,06457-3834,Passenger,6204189,Middletown,2023,4,202304,Alto
+C_CND_013003,2023-04-19,Amare,Male,485000,Buddy Storbeck's Diesel Service Inc,Ford,Focus,Overhead Camshaft,Manual,Red,24001,06457-3834,Hardtop,7884973,Middletown,2023,4,202304,Medio
+C_CND_013054,2023-04-22,Danielle,Female,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Corvette,DoubleÂ Overhead Camshaft,Auto,Pale White,25000,06457-3834,SUV,7952483,Middletown,2023,4,202304,Bajo
+C_CND_013092,2023-04-22,Theo,Male,13500,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,DoubleÂ Overhead Camshaft,Auto,Pale White,20001,06457-3834,Hatchback,8954952,Pasco,2023,4,202304,Bajo
+C_CND_013104,2023-04-23,Gauthier,Female,758000,Buddy Storbeck's Diesel Service Inc,Cadillac,Catera,DoubleÂ Overhead Camshaft,Auto,Pale White,28000,06457-3834,Hatchback,8984369,Middletown,2023,4,202304,Alto
+C_CND_013172,2023-04-25,Analia,Male,13500,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Wagon,Overhead Camshaft,Manual,Pale White,16001,06457-3834,Passenger,8983665,Middletown,2023,4,202304,Bajo
+C_CND_013192,2023-04-28,Yachet,Female,550000,Buddy Storbeck's Diesel Service Inc,Chrysler,Cirrus,DoubleÂ Overhead Camshaft,Auto,Pale White,12001,06457-3834,Passenger,7824098,Middletown,2023,4,202304,Medio-Alto
+C_CND_013204,2023-04-28,Devin,Male,993000,Buddy Storbeck's Diesel Service Inc,Subaru,Forester,DoubleÂ Overhead Camshaft,Auto,Black,22000,06457-3834,Hardtop,8908455,Middletown,2023,4,202304,Alto
+C_CND_013212,2023-04-30,Molly,Male,665000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,20001,06457-3834,Hardtop,8969160,Middletown,2023,4,202304,Medio-Alto
+C_CND_013256,2023-05-02,Kai,Male,13500,Buddy Storbeck's Diesel Service Inc,Ford,Windstar,DoubleÂ Overhead Camshaft,Auto,Pale White,19000,06457-3834,Sedan,7600744,Middletown,2023,5,202305,Bajo
+C_CND_013270,2023-05-02,Calvin,Male,1090000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,DoubleÂ Overhead Camshaft,Auto,Black,39000,06457-3834,Sedan,6870901,Middletown,2023,5,202305,Muy Alto
+C_CND_013304,2023-05-02,Thibaut,Female,505000,Buddy Storbeck's Diesel Service Inc,Ford,Explorer,DoubleÂ Overhead Camshaft,Auto,Black,22001,06457-3834,Hatchback,7485014,Scottsdale,2023,5,202305,Medio-Alto
+C_CND_013316,2023-05-03,Fanny,Male,912000,Buddy Storbeck's Diesel Service Inc,Nissan,Quest,Overhead Camshaft,Manual,Black,19001,06457-3834,SUV,6476264,Middletown,2023,5,202305,Alto
+C_CND_013393,2023-05-05,Carmen,Male,4525000,Buddy Storbeck's Diesel Service Inc,Acura,TL,DoubleÂ Overhead Camshaft,Auto,Red,16500,06457-3834,Hatchback,8700596,Middletown,2023,5,202305,Muy Alto
+C_CND_013462,2023-05-07,Linda,Female,757000,Buddy Storbeck's Diesel Service Inc,Plymouth,Prowler,DoubleÂ Overhead Camshaft,Auto,Red,15000,06457-3834,Hatchback,8884464,Middletown,2023,5,202305,Alto
+C_CND_013494,2023-05-07,Emeline,Male,13500,Buddy Storbeck's Diesel Service Inc,Honda,Accord,DoubleÂ Overhead Camshaft,Auto,Pale White,19001,06457-3834,Sedan,8731859,Scottsdale,2023,5,202305,Bajo
+C_CND_013506,2023-05-08,Alexandre,Male,896000,Buddy Storbeck's Diesel Service Inc,Lincoln,Continental,Overhead Camshaft,Manual,Black,42001,06457-3834,Passenger,6723155,Middletown,2023,5,202305,Alto
+C_CND_013565,2023-05-09,Ivan,Male,587000,Buddy Storbeck's Diesel Service Inc,Lincoln,Town car,DoubleÂ Overhead Camshaft,Auto,Black,26000,06457-3834,Hatchback,7410797,Middletown,2023,5,202305,Medio-Alto
+C_CND_013575,2023-05-09,Erika,Male,1210000,Buddy Storbeck's Diesel Service Inc,Buick,Park Avenue,Overhead Camshaft,Manual,Pale White,23000,06457-3834,Hatchback,8921133,Middletown,2023,5,202305,Muy Alto
+C_CND_013629,2023-05-12,Mina,Male,903000,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,Overhead Camshaft,Manual,Black,10000,06457-3834,SUV,7910037,Middletown,2023,5,202305,Alto
+C_CND_013741,2023-05-16,Leny,Male,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Malibu,Overhead Camshaft,Manual,Pale White,41000,06457-3834,Hardtop,6771778,Austin,2023,5,202305,Bajo
+C_CND_013764,2023-05-17,Matthew,Male,2000000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK230,Overhead Camshaft,Manual,Red,71001,06457-3834,Hatchback,6571367,Middletown,2023,5,202305,Muy Alto
+C_CND_013817,2023-05-19,Reese,Male,625000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,3000GT,Overhead Camshaft,Manual,Red,20000,06457-3834,Sedan,8620663,Middletown,2023,5,202305,Medio-Alto
+C_CND_013866,2023-05-20,Matheo,Female,530000,Buddy Storbeck's Diesel Service Inc,Volvo,V70,DoubleÂ Overhead Camshaft,Auto,Black,39001,06457-3834,Passenger,8253162,Scottsdale,2023,5,202305,Medio-Alto
+C_CND_013906,2023-05-22,Emma,Male,1100000,Buddy Storbeck's Diesel Service Inc,Volvo,C70,Overhead Camshaft,Manual,Red,82001,06457-3834,Hatchback,7349510,Middletown,2023,5,202305,Muy Alto
+C_CND_013911,2023-05-22,Gabriel,Male,720000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,DoubleÂ Overhead Camshaft,Auto,Pale White,45001,06457-3834,Hardtop,6495152,Middletown,2023,5,202305,Medio-Alto
+C_CND_013928,2023-05-22,Tyler,Male,1400000,Buddy Storbeck's Diesel Service Inc,Toyota,Land Cruiser,DoubleÂ Overhead Camshaft,Auto,Red,33000,06457-3834,SUV,8104104,Middletown,2023,5,202305,Muy Alto
+C_CND_013935,2023-05-22,Karen,Male,1700000,Buddy Storbeck's Diesel Service Inc,Cadillac,Eldorado,DoubleÂ Overhead Camshaft,Auto,Black,60000,06457-3834,Passenger,8746786,Middletown,2023,5,202305,Muy Alto
+C_CND_014015,2023-05-26,Sadie,Male,1384000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,20400,06457-3834,Hardtop,7297538,Middletown,2023,5,202305,Muy Alto
+C_CND_014023,2023-05-26,Caleb,Male,881000,Buddy Storbeck's Diesel Service Inc,Dodge,Caravan,DoubleÂ Overhead Camshaft,Auto,Pale White,38000,06457-3834,Hardtop,6692210,Middletown,2023,5,202305,Alto
+C_CND_014028,2023-05-26,Yanis,Male,3820000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,Overhead Camshaft,Manual,Red,19001,06457-3834,Hatchback,8606807,Middletown,2023,5,202305,Muy Alto
+C_CND_014031,2023-05-26,Skylar,Male,955000,Buddy Storbeck's Diesel Service Inc,Saturn,LW,Overhead Camshaft,Manual,Pale White,13000,06457-3834,Hatchback,8810056,Middletown,2023,5,202305,Alto
+C_CND_014119,2023-05-27,Blake,Female,2410000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Passat,Overhead Camshaft,Manual,Pale White,27001,06457-3834,Hatchback,7241824,Middletown,2023,5,202305,Muy Alto
+C_CND_014126,2023-05-27,Lindsay,Male,13500,Buddy Storbeck's Diesel Service Inc,BMW,328i,Overhead Camshaft,Manual,Black,69000,06457-3834,Sedan,6502865,Middletown,2023,5,202305,Bajo
+C_CND_014227,2023-05-30,Rayane,Female,750000,Buddy Storbeck's Diesel Service Inc,Chrysler,300M,DoubleÂ Overhead Camshaft,Auto,Pale White,22001,06457-3834,SUV,8745990,Middletown,2023,5,202305,Medio-Alto
+C_CND_014236,2023-05-30,Zissy,Female,1050000,Buddy Storbeck's Diesel Service Inc,Lexus,LS400,DoubleÂ Overhead Camshaft,Auto,Pale White,46000,06457-3834,Sedan,7247084,Middletown,2023,5,202305,Muy Alto
+C_CND_014268,2023-05-30,Ashley,Female,506000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Prizm,Overhead Camshaft,Manual,Red,24000,06457-3834,Hardtop,6147691,Pasco,2023,5,202305,Medio-Alto
+C_CND_014281,2023-05-30,Evan,Male,952000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Lumina,Overhead Camshaft,Manual,Red,12001,06457-3834,Passenger,8500121,Middletown,2023,5,202305,Alto
+C_CND_014304,2023-05-30,Nathalia,Male,1297000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Cabrio,DoubleÂ Overhead Camshaft,Auto,Black,16701,06457-3834,Sedan,8896125,Middletown,2023,5,202305,Muy Alto
+C_CND_014314,2023-05-30,Lena,Male,13500,Buddy Storbeck's Diesel Service Inc,BMW,323i,Overhead Camshaft,Manual,Red,21001,06457-3834,Hatchback,8568492,Pasco,2023,5,202305,Bajo
+C_CND_014405,2023-06-04,Azaan,Male,13500,Buddy Storbeck's Diesel Service Inc,Acura,Integra,DoubleÂ Overhead Camshaft,Auto,Black,45000,06457-3834,Passenger,8843931,Middletown,2023,6,202306,Bajo
+C_CND_014457,2023-06-05,Yollen,Male,1815000,Buddy Storbeck's Diesel Service Inc,Honda,CR-V,DoubleÂ Overhead Camshaft,Auto,Pale White,22501,06457-3834,SUV,7415275,Middletown,2023,6,202306,Muy Alto
+C_CND_014529,2023-06-06,Jonathan,Male,13500,Buddy Storbeck's Diesel Service Inc,Lincoln,Town car,DoubleÂ Overhead Camshaft,Auto,Pale White,18000,06457-3834,Hatchback,8502588,Middletown,2023,6,202306,Bajo
+C_CND_014542,2023-06-06,Shirley,Male,635000,Buddy Storbeck's Diesel Service Inc,Honda,CR-V,DoubleÂ Overhead Camshaft,Auto,Black,31000,06457-3834,SUV,8335817,Middletown,2023,6,202306,Medio-Alto
+C_CND_014583,2023-06-07,Felix,Male,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,Passat,DoubleÂ Overhead Camshaft,Auto,Pale White,13000,06457-3834,Hatchback,7849476,Middletown,2023,6,202306,Bajo
+C_CND_014643,2023-06-11,Myriam,Male,13500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Intrigue,DoubleÂ Overhead Camshaft,Auto,Pale White,39001,06457-3834,SUV,7361825,Middletown,2023,6,202306,Bajo
+C_CND_014723,2023-06-12,Kabir,Male,1575000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,Overhead Camshaft,Manual,Black,22500,06457-3834,Hatchback,8360889,Middletown,2023,6,202306,Muy Alto
+C_CND_014733,2023-06-12,Matthew,Male,13500,Buddy Storbeck's Diesel Service Inc,Hyundai,Elantra,Overhead Camshaft,Manual,Pale White,22000,06457-3834,Sedan,8496064,Middletown,2023,6,202306,Bajo
+C_CND_014757,2023-06-12,Alexandra,Female,580000,Buddy Storbeck's Diesel Service Inc,Volvo,C70,DoubleÂ Overhead Camshaft,Auto,Black,18001,06457-3834,Hatchback,6682249,Middletown,2023,6,202306,Medio-Alto
+C_CND_014783,2023-06-12,Haley,Male,475000,Buddy Storbeck's Diesel Service Inc,Audi,A6,Overhead Camshaft,Manual,Pale White,24000,06457-3834,SUV,6621722,Austin,2023,6,202306,Medio
+C_CND_014871,2023-06-15,Etienne,Male,580000,Buddy Storbeck's Diesel Service Inc,Toyota,Camry,Overhead Camshaft,Manual,Black,29001,06457-3834,Hatchback,6884303,Middletown,2023,6,202306,Medio-Alto
+C_CND_014886,2023-06-16,Batsheva,Male,780000,Buddy Storbeck's Diesel Service Inc,Mercury,Cougar,Overhead Camshaft,Manual,Pale White,28000,06457-3834,Hatchback,8815915,Middletown,2023,6,202306,Alto
+C_CND_014889,2023-06-16,Julianna,Male,510000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Jetta,DoubleÂ Overhead Camshaft,Auto,Pale White,69000,06457-3834,Passenger,8651486,Austin,2023,6,202306,Medio-Alto
+C_CND_014926,2023-06-17,Raymond,Male,1595000,Buddy Storbeck's Diesel Service Inc,Acura,RL,DoubleÂ Overhead Camshaft,Auto,Black,24500,06457-3834,SUV,8958563,Middletown,2023,6,202306,Muy Alto
+C_CND_014927,2023-06-17,Sincere,Male,630000,Buddy Storbeck's Diesel Service Inc,Dodge,Stratus,Overhead Camshaft,Manual,Pale White,37000,06457-3834,Hatchback,7826919,Middletown,2023,6,202306,Medio-Alto
+C_CND_015059,2023-06-20,Allen,Female,13500,Buddy Storbeck's Diesel Service Inc,Volkswagen,Jetta,DoubleÂ Overhead Camshaft,Auto,Pale White,16000,06457-3834,Passenger,8555850,Middletown,2023,6,202306,Bajo
+C_CND_015074,2023-06-20,Daisy,Male,13500,Buddy Storbeck's Diesel Service Inc,Honda,CR-V,DoubleÂ Overhead Camshaft,Auto,Pale White,12000,06457-3834,SUV,6977827,Middletown,2023,6,202306,Bajo
+C_CND_015091,2023-06-20,Liliana,Female,434000,Buddy Storbeck's Diesel Service Inc,Chrysler,300M,DoubleÂ Overhead Camshaft,Auto,Pale White,16000,06457-3834,SUV,6132895,Austin,2023,6,202306,Medio
+C_CND_015137,2023-06-23,Aaron,Male,360000,Buddy Storbeck's Diesel Service Inc,Mercury,Cougar,DoubleÂ Overhead Camshaft,Auto,Black,33000,06457-3834,Hatchback,6215704,Middletown,2023,6,202306,Medio
+C_CND_015228,2023-06-25,Timothy,Male,900000,Buddy Storbeck's Diesel Service Inc,Audi,A4,DoubleÂ Overhead Camshaft,Auto,Black,27000,06457-3834,Hardtop,8075694,Middletown,2023,6,202306,Alto
+C_CND_015235,2023-06-26,Zoe,Male,720000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Lumina,Overhead Camshaft,Manual,Black,10001,06457-3834,Passenger,6525705,Middletown,2023,6,202306,Medio-Alto
+C_CND_015271,2023-06-26,Chris,Male,715000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,DoubleÂ Overhead Camshaft,Auto,Black,18001,06457-3834,Hatchback,6217463,Middletown,2023,6,202306,Medio-Alto
+C_CND_015285,2023-06-26,Fiona,Male,671000,Buddy Storbeck's Diesel Service Inc,Nissan,Maxima,Overhead Camshaft,Manual,Pale White,16001,06457-3834,Sedan,8700132,Middletown,2023,6,202306,Medio-Alto
+C_CND_015341,2023-06-28,Duvid,Male,681000,Buddy Storbeck's Diesel Service Inc,Mercury,Sable,DoubleÂ Overhead Camshaft,Auto,Pale White,26000,06457-3834,Sedan,8698880,Middletown,2023,6,202306,Medio-Alto
+C_CND_015407,2023-07-01,Shoshana,Male,800000,Buddy Storbeck's Diesel Service Inc,Subaru,Forester,Overhead Camshaft,Manual,Pale White,26001,06457-3834,Hardtop,7298973,Middletown,2023,7,202307,Alto
+C_CND_015411,2023-07-01,Melissa,Male,813000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Cabrio,DoubleÂ Overhead Camshaft,Auto,Pale White,17000,06457-3834,Sedan,7432769,Middletown,2023,7,202307,Alto
+C_CND_015463,2023-07-03,Izabella,Male,700000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,Overhead Camshaft,Manual,Black,22001,06457-3834,Hatchback,6899177,Middletown,2023,7,202307,Medio-Alto
+C_CND_015502,2023-07-04,Calvin,Male,2200000,Buddy Storbeck's Diesel Service Inc,Chrysler,Concorde,DoubleÂ Overhead Camshaft,Auto,Pale White,46001,06457-3834,Hardtop,6862027,Middletown,2023,7,202307,Muy Alto
+C_CND_015504,2023-07-04,Madelyn,Male,1042500,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Van,DoubleÂ Overhead Camshaft,Auto,Pale White,12250,06457-3834,Hatchback,8334560,Middletown,2023,7,202307,Muy Alto
+C_CND_015529,2023-07-07,Greyson,Male,13500,Buddy Storbeck's Diesel Service Inc,Jeep,Wrangler,DoubleÂ Overhead Camshaft,Auto,Pale White,13000,06457-3834,Hatchback,6295924,Middletown,2023,7,202307,Bajo
+C_CND_015590,2023-07-08,Zoe,Male,3650000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,3000GT,DoubleÂ Overhead Camshaft,Auto,Pale White,19001,06457-3834,Sedan,8875173,Middletown,2023,7,202307,Muy Alto
+C_CND_015615,2023-07-08,Sara,Male,1855000,Buddy Storbeck's Diesel Service Inc,Cadillac,Escalade,DoubleÂ Overhead Camshaft,Auto,Black,26500,06457-3834,Sedan,7132185,Middletown,2023,7,202307,Muy Alto
+C_CND_015638,2023-07-08,Lilah,Male,535000,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Cabrio,Overhead Camshaft,Manual,Black,22000,06457-3834,Passenger,7754828,Middletown,2023,7,202307,Medio-Alto
+C_CND_015690,2023-07-10,Nora,Female,930000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Van,DoubleÂ Overhead Camshaft,Auto,Pale White,19000,06457-3834,Hatchback,8589184,Scottsdale,2023,7,202307,Alto
+C_CND_015854,2023-07-16,Jack,Male,500000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,DoubleÂ Overhead Camshaft,Auto,Pale White,45000,06457-3834,Hardtop,6772586,Middletown,2023,7,202307,Medio
+C_CND_015891,2023-07-17,Marcus,Male,1300000,Buddy Storbeck's Diesel Service Inc,Pontiac,Grand Am,DoubleÂ Overhead Camshaft,Auto,Pale White,26000,06457-3834,SUV,8347255,Middletown,2023,7,202307,Muy Alto
+C_CND_015926,2023-07-17,Dov,Male,1601000,Buddy Storbeck's Diesel Service Inc,Chrysler,Concorde,DoubleÂ Overhead Camshaft,Auto,Black,12100,06457-3834,Hardtop,8694935,Middletown,2023,7,202307,Muy Alto
+C_CND_015976,2023-07-18,Arianna,Female,13500,Buddy Storbeck's Diesel Service Inc,Honda,Civic,Overhead Camshaft,Manual,Black,43000,06457-3834,Hatchback,6100179,Middletown,2023,7,202307,Bajo
+C_CND_016032,2023-07-19,Sabrina,Male,13500,Buddy Storbeck's Diesel Service Inc,Honda,Civic,DoubleÂ Overhead Camshaft,Auto,Pale White,25000,06457-3834,Hatchback,7641757,Middletown,2023,7,202307,Bajo
+C_CND_016052,2023-07-21,Jonah,Male,1380000,Buddy Storbeck's Diesel Service Inc,Saturn,SC,DoubleÂ Overhead Camshaft,Auto,Black,33000,06457-3834,Hardtop,6161316,Middletown,2023,7,202307,Muy Alto
+C_CND_016093,2023-07-21,Ian,Male,1355000,Buddy Storbeck's Diesel Service Inc,Chrysler,Sebring Coupe,DoubleÂ Overhead Camshaft,Auto,Pale White,46500,06457-3834,Sedan,7999087,Janesville,2023,7,202307,Muy Alto
+C_CND_016112,2023-07-22,Nicholas,Male,1111000,Buddy Storbeck's Diesel Service Inc,Dodge,Dakota,DoubleÂ Overhead Camshaft,Auto,Pale White,21100,06457-3834,Sedan,8647100,Middletown,2023,7,202307,Muy Alto
+C_CND_016162,2023-07-23,Noemie,Female,786000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Monte Carlo,Overhead Camshaft,Manual,Pale White,26001,06457-3834,Hatchback,6727451,Middletown,2023,7,202307,Alto
+C_CND_016178,2023-07-23,Carly,Male,13500,Buddy Storbeck's Diesel Service Inc,Cadillac,Eldorado,Overhead Camshaft,Manual,Pale White,37000,06457-3834,Passenger,8402931,Middletown,2023,7,202307,Bajo
+C_CND_016212,2023-07-24,Tzipora,Male,1260000,Buddy Storbeck's Diesel Service Inc,Audi,A8,Overhead Camshaft,Manual,Pale White,13001,06457-3834,Passenger,6522260,Middletown,2023,7,202307,Muy Alto
+C_CND_016253,2023-07-25,Ryder,Male,700000,Buddy Storbeck's Diesel Service Inc,Saab,3-Sep,DoubleÂ Overhead Camshaft,Auto,Black,18000,06457-3834,Sedan,8971128,Middletown,2023,7,202307,Medio-Alto
+C_CND_016295,2023-07-25,Nathan,Male,315000,Buddy Storbeck's Diesel Service Inc,Jeep,Grand Cherokee,Overhead Camshaft,Manual,Pale White,15000,06457-3834,SUV,6760871,Janesville,2023,7,202307,Medio
+C_CND_016372,2023-07-30,Gabin,Female,1210000,Buddy Storbeck's Diesel Service Inc,Honda,CR-V,DoubleÂ Overhead Camshaft,Auto,Pale White,12001,06457-3834,SUV,6802044,Middletown,2023,7,202307,Muy Alto
+C_CND_016409,2023-07-31,Alvin,Male,1345000,Buddy Storbeck's Diesel Service Inc,Nissan,Maxima,Overhead Camshaft,Manual,Pale White,29500,06457-3834,Sedan,8737621,Middletown,2023,7,202307,Muy Alto
+C_CND_016475,2023-08-04,Usher,Male,875000,Buddy Storbeck's Diesel Service Inc,Jeep,Wrangler,Overhead Camshaft,Manual,Pale White,23000,06457-3834,Hatchback,7521028,Middletown,2023,8,202308,Alto
+C_CND_016550,2023-08-08,Gemma,Male,1070000,Buddy Storbeck's Diesel Service Inc,Dodge,Stratus,Overhead Camshaft,Manual,Pale White,25000,06457-3834,Hatchback,7092716,Middletown,2023,8,202308,Muy Alto
+C_CND_016576,2023-08-09,Mathiew,Male,540000,Buddy Storbeck's Diesel Service Inc,Mercury,Sable,DoubleÂ Overhead Camshaft,Auto,Pale White,39001,06457-3834,Sedan,7710160,Middletown,2023,8,202308,Medio-Alto
+C_CND_016615,2023-08-11,Benjamin,Male,310000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Corvette,DoubleÂ Overhead Camshaft,Auto,Pale White,25001,06457-3834,SUV,7723340,Pasco,2023,8,202308,Medio
+C_CND_016668,2023-08-13,Tatiana-Eva,Male,1001000,Buddy Storbeck's Diesel Service Inc,Honda,Civic,Overhead Camshaft,Manual,Black,43100,06457-3834,Hatchback,6589267,Middletown,2023,8,202308,Muy Alto
+C_CND_016712,2023-08-14,Anisa,Male,473000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,20000,06457-3834,SUV,7401224,Middletown,2023,8,202308,Medio
+C_CND_016738,2023-08-15,Lynda,Female,5000000,Buddy Storbeck's Diesel Service Inc,Ford,Windstar,DoubleÂ Overhead Camshaft,Auto,Red,31001,06457-3834,Sedan,8763305,Middletown,2023,8,202308,Muy Alto
+C_CND_016791,2023-08-16,Kingsley,Male,1385000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Mirage,DoubleÂ Overhead Camshaft,Auto,Black,9500,06457-3834,SUV,7126583,Middletown,2023,8,202308,Muy Alto
+C_CND_016800,2023-08-17,Nelson,Male,380000,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,Overhead Camshaft,Manual,Pale White,41000,06457-3834,Hatchback,8593764,Greenville,2023,8,202308,Medio
+C_CND_016867,2023-08-21,Eloise,Male,13500,Buddy Storbeck's Diesel Service Inc,Audi,A6,DoubleÂ Overhead Camshaft,Auto,Black,14000,06457-3834,SUV,7180529,Middletown,2023,8,202308,Bajo
+C_CND_016952,2023-08-23,Theo,Male,1720000,Buddy Storbeck's Diesel Service Inc,Toyota,RAV4,DoubleÂ Overhead Camshaft,Auto,Black,28001,06457-3834,Hatchback,6491396,Middletown,2023,8,202308,Muy Alto
+C_CND_017004,2023-08-23,Sean,Female,930000,Buddy Storbeck's Diesel Service Inc,Subaru,Outback,DoubleÂ Overhead Camshaft,Auto,Red,57000,06457-3834,SUV,6237392,Middletown,2023,8,202308,Alto
+C_CND_017021,2023-08-23,Steve,Male,875000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,E-Class,DoubleÂ Overhead Camshaft,Auto,Pale White,31000,06457-3834,Sedan,6685194,Aurora,2023,8,202308,Alto
+C_CND_017036,2023-08-26,Itzel,Female,13500,Buddy Storbeck's Diesel Service Inc,Dodge,Caravan,DoubleÂ Overhead Camshaft,Auto,Red,19000,06457-3834,SUV,7775050,Middletown,2023,8,202308,Bajo
+C_CND_017090,2023-08-26,Menucha,Female,770000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Metro,DoubleÂ Overhead Camshaft,Auto,Pale White,12000,06457-3834,Passenger,6910326,Middletown,2023,8,202308,Alto
+C_CND_017148,2023-08-27,Lia,Female,1230000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Bravada,DoubleÂ Overhead Camshaft,Auto,Red,19000,06457-3834,Hatchback,8696309,Middletown,2023,8,202308,Muy Alto
+C_CND_017191,2023-08-27,Anderson,Female,13500,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK,Overhead Camshaft,Manual,Pale White,17001,06457-3834,Passenger,6585143,Aurora,2023,8,202308,Bajo
+C_CND_017316,2023-09-01,Soules,Male,1920000,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,DoubleÂ Overhead Camshaft,Auto,Pale White,20001,06457-3834,Hatchback,7010530,Middletown,2023,9,202309,Muy Alto
+C_CND_017337,2023-09-01,Maryam,Male,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Lumina,Overhead Camshaft,Manual,Black,10001,06457-3834,Passenger,8966496,Middletown,2023,9,202309,Bajo
+C_CND_017352,2023-09-01,Piper,Female,570000,Buddy Storbeck's Diesel Service Inc,Nissan,Altima,DoubleÂ Overhead Camshaft,Auto,Pale White,21000,06457-3834,Hatchback,8665212,Middletown,2023,9,202309,Medio-Alto
+C_CND_017401,2023-09-01,Landon,Male,1440000,Buddy Storbeck's Diesel Service Inc,Cadillac,Escalade,DoubleÂ Overhead Camshaft,Auto,Pale White,38001,06457-3834,Sedan,8724704,Austin,2023,9,202309,Muy Alto
+C_CND_017461,2023-09-02,Phoebe,Male,13500,Buddy Storbeck's Diesel Service Inc,Pontiac,Grand Am,DoubleÂ Overhead Camshaft,Auto,Pale White,26000,06457-3834,SUV,8487228,Middletown,2023,9,202309,Bajo
+C_CND_017482,2023-09-02,Shifra,Male,13500,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Cabrio,DoubleÂ Overhead Camshaft,Auto,Pale White,18000,06457-3834,Passenger,6904216,Middletown,2023,9,202309,Bajo
+C_CND_017509,2023-09-02,Jessica,Male,660000,Buddy Storbeck's Diesel Service Inc,Subaru,Forester,DoubleÂ Overhead Camshaft,Auto,Black,22000,06457-3834,SUV,7370976,Middletown,2023,9,202309,Medio-Alto
+C_CND_017534,2023-09-02,Quinn,Male,910000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Metro,DoubleÂ Overhead Camshaft,Auto,Pale White,12000,06457-3834,Passenger,6326248,Janesville,2023,9,202309,Alto
+C_CND_017580,2023-09-03,James,Male,830000,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,DoubleÂ Overhead Camshaft,Auto,Pale White,16000,06457-3834,Hatchback,7173388,Middletown,2023,9,202309,Alto
+C_CND_017595,2023-09-03,Youssef,Male,716000,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,DoubleÂ Overhead Camshaft,Auto,Black,41000,06457-3834,SUV,8940633,Austin,2023,9,202309,Medio-Alto
+C_CND_017622,2023-09-04,Ali,Male,565000,Buddy Storbeck's Diesel Service Inc,Nissan,Pathfinder,DoubleÂ Overhead Camshaft,Auto,Pale White,46001,06457-3834,SUV,7637351,Middletown,2023,9,202309,Medio-Alto
+C_CND_017666,2023-09-04,Lilah,Male,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Prizm,Overhead Camshaft,Manual,Pale White,22000,06457-3834,SUV,7523473,Middletown,2023,9,202309,Bajo
+C_CND_017700,2023-09-05,Edouard,Male,550000,Buddy Storbeck's Diesel Service Inc,Ford,Explorer,DoubleÂ Overhead Camshaft,Auto,Pale White,18001,06457-3834,Hatchback,8055197,Middletown,2023,9,202309,Medio-Alto
+C_CND_017772,2023-09-05,Yasmina,Male,317500,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK,Overhead Camshaft,Manual,Black,26500,06457-3834,Passenger,6467064,Middletown,2023,9,202309,Medio
+C_CND_017817,2023-09-05,Lamar,Male,1400000,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,Overhead Camshaft,Manual,Black,18000,06457-3834,SUV,6335286,Middletown,2023,9,202309,Muy Alto
+C_CND_017855,2023-09-05,Grace,Male,13500,Buddy Storbeck's Diesel Service Inc,Mercedes-B,C-Class,Overhead Camshaft,Manual,Pale White,17000,06457-3834,Hatchback,6048129,Janesville,2023,9,202309,Bajo
+C_CND_017860,2023-09-05,Caroline,Male,680000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,DoubleÂ Overhead Camshaft,Auto,Pale White,45000,06457-3834,SUV,7191346,Middletown,2023,9,202309,Medio-Alto
+C_CND_017890,2023-09-06,Loris,Male,13500,Buddy Storbeck's Diesel Service Inc,Plymouth,Neon,DoubleÂ Overhead Camshaft,Auto,Pale White,27001,06457-3834,SUV,8545725,Middletown,2023,9,202309,Bajo
+C_CND_017899,2023-09-06,Yocheved,Male,13500,Buddy Storbeck's Diesel Service Inc,Ford,Escort,Overhead Camshaft,Manual,Black,11000,06457-3834,Passenger,6219553,Middletown,2023,9,202309,Bajo
+C_CND_017902,2023-09-06,Arvin,Male,1405000,Buddy Storbeck's Diesel Service Inc,Acura,RL,Overhead Camshaft,Manual,Red,17500,06457-3834,SUV,8766107,Middletown,2023,9,202309,Muy Alto
+C_CND_017917,2023-09-06,Patrick,Male,528500,Buddy Storbeck's Diesel Service Inc,Audi,A6,DoubleÂ Overhead Camshaft,Auto,Pale White,42500,06457-3834,SUV,8375450,Middletown,2023,9,202309,Medio-Alto
+C_CND_018026,2023-09-08,Aliyah,Female,1453000,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,DoubleÂ Overhead Camshaft,Auto,Black,26300,06457-3834,Hatchback,7982362,Middletown,2023,9,202309,Muy Alto
+C_CND_018056,2023-09-10,Lucie,Male,786000,Buddy Storbeck's Diesel Service Inc,Subaru,Outback,Overhead Camshaft,Manual,Red,49001,06457-3834,SUV,8200058,Middletown,2023,9,202309,Alto
+C_CND_018074,2023-09-10,Eli,Male,650000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Metro,DoubleÂ Overhead Camshaft,Auto,Black,31000,06457-3834,Passenger,7606805,Middletown,2023,9,202309,Medio-Alto
+C_CND_018118,2023-09-11,Benson,Male,345000,Buddy Storbeck's Diesel Service Inc,BMW,328i,DoubleÂ Overhead Camshaft,Auto,Black,18000,06457-3834,Sedan,8416333,Middletown,2023,9,202309,Medio
+C_CND_018156,2023-09-11,Adriel,Male,1200000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Intrigue,Overhead Camshaft,Manual,Red,25000,06457-3834,SUV,6249740,Middletown,2023,9,202309,Muy Alto
+C_CND_018247,2023-09-12,Milan,Female,736500,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK,DoubleÂ Overhead Camshaft,Auto,Pale White,46500,06457-3834,Passenger,7057304,Middletown,2023,9,202309,Medio-Alto
+C_CND_018277,2023-09-13,Gabriel,Male,951000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Passat,DoubleÂ Overhead Camshaft,Auto,Red,13000,06457-3834,Hatchback,6210556,Middletown,2023,9,202309,Alto
+C_CND_018320,2023-09-14,Brayden,Male,13500,Buddy Storbeck's Diesel Service Inc,Toyota,RAV4,Overhead Camshaft,Manual,Pale White,22000,06457-3834,Hatchback,6588380,Middletown,2023,9,202309,Bajo
+C_CND_018450,2023-09-17,Aurora,Male,260000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,C-Class,Overhead Camshaft,Manual,Pale White,12001,06457-3834,Hatchback,8374497,Austin,2023,9,202309,Medio
+C_CND_018458,2023-09-18,Jacqueline,Male,350000,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Coupe,Overhead Camshaft,Manual,Black,16000,06457-3834,SUV,8483899,Middletown,2023,9,202309,Medio
+C_CND_018472,2023-09-18,Kevin,Male,1346000,Buddy Storbeck's Diesel Service Inc,Volkswagen,GTI,DoubleÂ Overhead Camshaft,Auto,Red,25600,06457-3834,SUV,6178956,Middletown,2023,9,202309,Muy Alto
+C_CND_018483,2023-09-18,Nicholas,Male,13500,Buddy Storbeck's Diesel Service Inc,Jeep,Cherokee,DoubleÂ Overhead Camshaft,Auto,Red,14000,06457-3834,Sedan,8366094,Middletown,2023,9,202309,Bajo
+C_CND_018506,2023-09-18,Edison,Male,13500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Cutlass,DoubleÂ Overhead Camshaft,Auto,Red,15001,06457-3834,Sedan,7260807,Middletown,2023,9,202309,Bajo
+C_CND_018596,2023-09-19,Katie,Male,1635000,Buddy Storbeck's Diesel Service Inc,Pontiac,Bonneville,Overhead Camshaft,Manual,Red,11500,06457-3834,Hatchback,6056625,Janesville,2023,9,202309,Muy Alto
+C_CND_018637,2023-09-20,William,Male,13500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Cutlass,DoubleÂ Overhead Camshaft,Auto,Red,15000,06457-3834,Sedan,7346074,Middletown,2023,9,202309,Bajo
+C_CND_018663,2023-09-22,Emilie,Male,2210000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Cabrio,DoubleÂ Overhead Camshaft,Auto,Black,16001,06457-3834,Sedan,8792623,Middletown,2023,9,202309,Muy Alto
+C_CND_018680,2023-09-22,Ryan,Male,625000,Buddy Storbeck's Diesel Service Inc,Hyundai,Elantra,Overhead Camshaft,Manual,Pale White,26000,06457-3834,Sedan,6521807,Middletown,2023,9,202309,Medio-Alto
+C_CND_018712,2023-09-22,Hector,Male,1860000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Montero,Overhead Camshaft,Manual,Black,16000,06457-3834,SUV,8648520,Middletown,2023,9,202309,Muy Alto
+C_CND_018790,2023-09-23,Madison,Male,345000,Buddy Storbeck's Diesel Service Inc,Mercury,Cougar,DoubleÂ Overhead Camshaft,Auto,Black,33001,06457-3834,Hatchback,8400495,Janesville,2023,9,202309,Medio
+C_CND_018833,2023-09-24,Brian,Male,13500,Buddy Storbeck's Diesel Service Inc,Ford,Mustang,Overhead Camshaft,Manual,Red,43000,06457-3834,Hatchback,7534091,Middletown,2023,9,202309,Bajo
+C_CND_018861,2023-09-25,Lou,Female,505000,Buddy Storbeck's Diesel Service Inc,Hyundai,Accent,Overhead Camshaft,Manual,Black,18000,06457-3834,Hatchback,7096582,Middletown,2023,9,202309,Medio-Alto
+C_CND_018883,2023-09-25,Amadou,Male,590000,Buddy Storbeck's Diesel Service Inc,Dodge,Durango,DoubleÂ Overhead Camshaft,Auto,Black,24000,06457-3834,SUV,8449139,Middletown,2023,9,202309,Medio-Alto
+C_CND_018925,2023-09-25,Jesse,Male,1211000,Buddy Storbeck's Diesel Service Inc,Acura,RL,Overhead Camshaft,Manual,Red,26100,06457-3834,SUV,8923402,Middletown,2023,9,202309,Muy Alto
+C_CND_018966,2023-09-26,Winnie,Male,866000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Beetle,Overhead Camshaft,Manual,Red,21000,06457-3834,Hardtop,6782614,Middletown,2023,9,202309,Alto
+C_CND_018972,2023-09-26,Hannah,Male,13500,Buddy Storbeck's Diesel Service Inc,Honda,Passport,Overhead Camshaft,Manual,Black,22000,06457-3834,Hardtop,8774635,Middletown,2023,9,202309,Bajo
+C_CND_019039,2023-09-26,Blima,Male,13500,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,Overhead Camshaft,Manual,Black,18000,06457-3834,SUV,7846157,Aurora,2023,9,202309,Bajo
+C_CND_019051,2023-09-27,Erwan,Male,850000,Buddy Storbeck's Diesel Service Inc,Volkswagen,Jetta,Overhead Camshaft,Manual,Pale White,27000,06457-3834,Passenger,8269292,Middletown,2023,9,202309,Alto
+C_CND_019054,2023-09-27,Angelina,Male,905000,Buddy Storbeck's Diesel Service Inc,Cadillac,Seville,Overhead Camshaft,Manual,Black,44000,06457-3834,Hardtop,7290746,Middletown,2023,9,202309,Alto
+C_CND_019070,2023-09-27,Liam,Male,1340000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Silhouette,Overhead Camshaft,Manual,Pale White,14000,06457-3834,Sedan,7871321,Middletown,2023,9,202309,Muy Alto
+C_CND_019074,2023-09-27,Devorah,Male,550000,Buddy Storbeck's Diesel Service Inc,BMW,528i,Overhead Camshaft,Manual,Black,21000,06457-3834,SUV,7134483,Janesville,2023,9,202309,Medio-Alto
+C_CND_019209,2023-10-02,Freya,Male,1460000,Buddy Storbeck's Diesel Service Inc,Cadillac,Eldorado,Overhead Camshaft,Manual,Black,29000,06457-3834,Passenger,8693353,Austin,2023,10,202310,Muy Alto
+C_CND_019221,2023-10-03,Lea,Female,13500,Buddy Storbeck's Diesel Service Inc,Buick,Park Avenue,DoubleÂ Overhead Camshaft,Auto,Pale White,62000,06457-3834,Hatchback,8239608,Middletown,2023,10,202310,Bajo
+C_CND_019229,2023-10-03,Jayce,Male,1010000,Buddy Storbeck's Diesel Service Inc,Chrysler,300M,DoubleÂ Overhead Camshaft,Auto,Black,26000,06457-3834,SUV,6538564,Middletown,2023,10,202310,Muy Alto
+C_CND_019241,2023-10-03,John,Male,2100000,Buddy Storbeck's Diesel Service Inc,Saturn,SC,DoubleÂ Overhead Camshaft,Auto,Black,33000,06457-3834,Hardtop,6002881,Middletown,2023,10,202310,Muy Alto
+C_CND_019273,2023-10-04,Noel,Male,13500,Buddy Storbeck's Diesel Service Inc,Toyota,Sienna,Overhead Camshaft,Manual,Black,12001,06457-3834,Passenger,6503307,Middletown,2023,10,202310,Bajo
+C_CND_019283,2023-10-04,Kylian,Male,1275000,Buddy Storbeck's Diesel Service Inc,Lexus,ES300,DoubleÂ Overhead Camshaft,Auto,Pale White,27501,06457-3834,Hardtop,6507091,Aurora,2023,10,202310,Muy Alto
+C_CND_019308,2023-10-06,Tomy,Male,565000,Buddy Storbeck's Diesel Service Inc,Chrysler,Sebring Coupe,Overhead Camshaft,Manual,Pale White,26000,06457-3834,Sedan,6654311,Scottsdale,2023,10,202310,Medio-Alto
+C_CND_019405,2023-10-10,Noel,Male,1325500,Buddy Storbeck's Diesel Service Inc,Cadillac,Escalade,Overhead Camshaft,Manual,Black,34550,06457-3834,Sedan,8039327,Middletown,2023,10,202310,Muy Alto
+C_CND_019583,2023-10-15,Hugo,Female,890000,Buddy Storbeck's Diesel Service Inc,Acura,RL,DoubleÂ Overhead Camshaft,Auto,Black,24001,06457-3834,SUV,8718863,Middletown,2023,10,202310,Alto
+C_CND_019603,2023-10-15,Robert,Male,13500,Buddy Storbeck's Diesel Service Inc,Acura,RL,Overhead Camshaft,Manual,Red,31000,06457-3834,SUV,7767953,Middletown,2023,10,202310,Bajo
+C_CND_019611,2023-10-15,Aaron,Male,680000,Buddy Storbeck's Diesel Service Inc,Saturn,SL,DoubleÂ Overhead Camshaft,Auto,Red,22000,06457-3834,SUV,6660269,Middletown,2023,10,202310,Medio-Alto
+C_CND_019631,2023-10-15,Amrom,Male,752500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Intrigue,DoubleÂ Overhead Camshaft,Auto,Pale White,45500,06457-3834,SUV,8965282,Middletown,2023,10,202310,Alto
+C_CND_019679,2023-10-17,Eulaine,Male,977000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,DoubleÂ Overhead Camshaft,Auto,Pale White,57001,06457-3834,Hardtop,8111420,Aurora,2023,10,202310,Alto
+C_CND_019751,2023-10-21,Mathilde,Female,460000,Buddy Storbeck's Diesel Service Inc,BMW,328i,Overhead Camshaft,Manual,Black,69001,06457-3834,Sedan,7768768,Middletown,2023,10,202310,Medio
+C_CND_019777,2023-10-21,Alex,Male,570500,Buddy Storbeck's Diesel Service Inc,Nissan,Maxima,Overhead Camshaft,Manual,Pale White,16501,06457-3834,Sedan,8020367,Middletown,2023,10,202310,Medio-Alto
+C_CND_019793,2023-10-21,Brayden,Male,2525000,Buddy Storbeck's Diesel Service Inc,Mercury,Grand Marquis,Overhead Camshaft,Manual,Black,49500,06457-3834,SUV,8332712,Middletown,2023,10,202310,Muy Alto
+C_CND_019835,2023-10-21,Ema,Male,620000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Corvette,Overhead Camshaft,Manual,Pale White,22000,06457-3834,SUV,8803936,Scottsdale,2023,10,202310,Medio-Alto
+C_CND_019903,2023-10-24,Vargoz,Male,565500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Corvette,DoubleÂ Overhead Camshaft,Auto,Pale White,46500,06457-3834,SUV,7351041,Middletown,2023,10,202310,Medio-Alto
+C_CND_019945,2023-10-27,Lucas,Male,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Prizm,Overhead Camshaft,Manual,Black,27000,06457-3834,Hardtop,6002071,Middletown,2023,10,202310,Bajo
+C_CND_019973,2023-10-28,Alizee,Female,782000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,C-Class,Overhead Camshaft,Manual,Pale White,12001,06457-3834,Hatchback,7589432,Middletown,2023,10,202310,Alto
+C_CND_019995,2023-10-28,Carlos,Male,700500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Cavalier,Overhead Camshaft,Manual,Pale White,14500,06457-3834,SUV,6835699,Middletown,2023,10,202310,Medio-Alto
+C_CND_020033,2023-10-28,Elliot,Male,555000,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,Overhead Camshaft,Manual,Black,18000,06457-3834,SUV,6048080,Middletown,2023,10,202310,Medio-Alto
+C_CND_020085,2023-10-30,Theo,Male,415000,Buddy Storbeck's Diesel Service Inc,Chrysler,300M,DoubleÂ Overhead Camshaft,Auto,Black,26000,06457-3834,SUV,7825567,Middletown,2023,10,202310,Medio
+C_CND_020188,2023-11-03,Elias,Male,1650000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Corvette,DoubleÂ Overhead Camshaft,Auto,Pale White,45000,06457-3834,SUV,7140889,Middletown,2023,11,202311,Muy Alto
+C_CND_020227,2023-11-03,Iris,Male,1140000,Buddy Storbeck's Diesel Service Inc,Plymouth,Voyager,DoubleÂ Overhead Camshaft,Auto,Pale White,22000,06457-3834,Passenger,6308758,Middletown,2023,11,202311,Muy Alto
+C_CND_020240,2023-11-03,Kassandra,Male,1500000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Eclipse,Overhead Camshaft,Manual,Pale White,12000,06457-3834,Hardtop,6562204,Middletown,2023,11,202311,Muy Alto
+C_CND_020255,2023-11-03,Lou - Ann,Female,1202000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Camaro,DoubleÂ Overhead Camshaft,Auto,Black,41200,06457-3834,Sedan,7200418,Scottsdale,2023,11,202311,Muy Alto
+C_CND_020292,2023-11-04,Reb,Male,1350000,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,Overhead Camshaft,Manual,Pale White,22001,06457-3834,SUV,7475755,Middletown,2023,11,202311,Muy Alto
+C_CND_020399,2023-11-05,Ivan,Female,670000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Metro,DoubleÂ Overhead Camshaft,Auto,Pale White,12001,06457-3834,Passenger,6524843,Middletown,2023,11,202311,Medio-Alto
+C_CND_020438,2023-11-05,Luca,Female,540000,Buddy Storbeck's Diesel Service Inc,Mercury,Grand Marquis,Overhead Camshaft,Manual,Pale White,71001,06457-3834,SUV,6390704,Middletown,2023,11,202311,Medio-Alto
+C_CND_020473,2023-11-06,Lily,Male,931000,Buddy Storbeck's Diesel Service Inc,Nissan,Pathfinder,DoubleÂ Overhead Camshaft,Auto,Pale White,21000,06457-3834,Hardtop,8078143,Scottsdale,2023,11,202311,Alto
+C_CND_020478,2023-11-06,Jayden,Male,1065000,Buddy Storbeck's Diesel Service Inc,Infiniti,I30,Overhead Camshaft,Manual,Pale White,22500,06457-3834,Hardtop,8115957,Austin,2023,11,202311,Muy Alto
+C_CND_020541,2023-11-07,Jonathan,Male,1625000,Buddy Storbeck's Diesel Service Inc,Toyota,Corolla,Overhead Camshaft,Manual,Pale White,14500,06457-3834,Passenger,7076385,Middletown,2023,11,202311,Muy Alto
+C_CND_020580,2023-11-07,Naftali,Male,880000,Buddy Storbeck's Diesel Service Inc,Dodge,Durango,Overhead Camshaft,Manual,Pale White,27000,06457-3834,SUV,8205553,Middletown,2023,11,202311,Alto
+C_CND_020590,2023-11-07,Erine,Male,13500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Silhouette,Overhead Camshaft,Manual,Pale White,19000,06457-3834,Sedan,8564029,Janesville,2023,11,202311,Bajo
+C_CND_020640,2023-11-10,Hilal,Male,1470000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,3000GT,Overhead Camshaft,Manual,Pale White,24001,06457-3834,Sedan,6926473,Middletown,2023,11,202311,Muy Alto
+C_CND_020693,2023-11-10,Pargaux,Male,445000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Van,DoubleÂ Overhead Camshaft,Auto,Black,60000,06457-3834,Hatchback,8423017,Middletown,2023,11,202311,Medio
+C_CND_020754,2023-11-10,Sam,Male,1340000,Buddy Storbeck's Diesel Service Inc,Mercury,Cougar,DoubleÂ Overhead Camshaft,Auto,Black,26000,06457-3834,Hatchback,6254364,Middletown,2023,11,202311,Muy Alto
+C_CND_020780,2023-11-10,Gwenael,Male,1360000,Buddy Storbeck's Diesel Service Inc,Acura,TL,Overhead Camshaft,Manual,Black,21000,06457-3834,Hatchback,6703486,Janesville,2023,11,202311,Muy Alto
+C_CND_020839,2023-11-11,Quentin,Male,1010800,Buddy Storbeck's Diesel Service Inc,Pontiac,Sunfire,Overhead Camshaft,Manual,Pale White,43080,06457-3834,Sedan,6801020,Middletown,2023,11,202311,Muy Alto
+C_CND_020894,2023-11-12,Enz,Male,13500,Buddy Storbeck's Diesel Service Inc,Saturn,LW,DoubleÂ Overhead Camshaft,Auto,Pale White,18001,06457-3834,Hatchback,8929760,Middletown,2023,11,202311,Bajo
+C_CND_020917,2023-11-12,Nicholas,Male,850000,Buddy Storbeck's Diesel Service Inc,Jaguar,S-Type,Overhead Camshaft,Manual,Pale White,20000,06457-3834,Passenger,6780667,Middletown,2023,11,202311,Alto
+C_CND_020958,2023-11-12,Aurelien,Female,13500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Silhouette,Overhead Camshaft,Manual,Pale White,14000,06457-3834,Sedan,7776349,Scottsdale,2023,11,202311,Bajo
+C_CND_021006,2023-11-13,Vincent,Male,1350000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Van,DoubleÂ Overhead Camshaft,Auto,Pale White,15001,06457-3834,Hatchback,7981424,Middletown,2023,11,202311,Muy Alto
+C_CND_021077,2023-11-14,Hersh,Male,930000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,Overhead Camshaft,Manual,Black,19001,06457-3834,SUV,7410946,Middletown,2023,11,202311,Alto
+C_CND_021112,2023-11-15,Judith,Male,2400000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Silhouette,Overhead Camshaft,Manual,Pale White,19001,06457-3834,Sedan,6134984,Middletown,2023,11,202311,Muy Alto
+C_CND_021134,2023-11-15,Lilian,Female,525000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Wagon,DoubleÂ Overhead Camshaft,Auto,Black,22000,06457-3834,Passenger,6302130,Scottsdale,2023,11,202311,Medio-Alto
+C_CND_021151,2023-11-17,Tyler,Male,13500,Buddy Storbeck's Diesel Service Inc,Chevrolet,Lumina,Overhead Camshaft,Manual,Black,42000,06457-3834,Passenger,7297424,Middletown,2023,11,202311,Bajo
+C_CND_021161,2023-11-17,Alyssa,Female,551000,Buddy Storbeck's Diesel Service Inc,Lincoln,Continental,Overhead Camshaft,Manual,Pale White,82000,06457-3834,Passenger,7802537,Middletown,2023,11,202311,Medio-Alto
+C_CND_021242,2023-11-19,Mateo,Male,660000,Buddy Storbeck's Diesel Service Inc,Mercury,Mystique,DoubleÂ Overhead Camshaft,Auto,Black,9001,06457-3834,Passenger,8947678,Middletown,2023,11,202311,Medio-Alto
+C_CND_021343,2023-11-20,Ari,Male,13500,Buddy Storbeck's Diesel Service Inc,Volvo,S80,Overhead Camshaft,Manual,Pale White,21000,06457-3834,Sedan,6995886,Middletown,2023,11,202311,Bajo
+C_CND_021381,2023-11-20,Marine,Male,13500,Buddy Storbeck's Diesel Service Inc,BMW,528i,DoubleÂ Overhead Camshaft,Auto,Black,31000,06457-3834,SUV,6761517,Middletown,2023,11,202311,Bajo
+C_CND_021389,2023-11-20,Christine,Male,13500,Buddy Storbeck's Diesel Service Inc,Mercury,Cougar,DoubleÂ Overhead Camshaft,Auto,Black,33000,06457-3834,Hatchback,8181615,Middletown,2023,11,202311,Bajo
+C_CND_021404,2023-11-20,Luca,Male,1362500,Buddy Storbeck's Diesel Service Inc,Dodge,Durango,DoubleÂ Overhead Camshaft,Auto,Black,19250,06457-3834,SUV,7294677,Scottsdale,2023,11,202311,Muy Alto
+C_CND_021505,2023-11-22,Chase,Male,13500,Buddy Storbeck's Diesel Service Inc,BMW,323i,DoubleÂ Overhead Camshaft,Auto,Black,9000,06457-3834,Hatchback,7823423,Middletown,2023,11,202311,Bajo
+C_CND_021530,2023-11-22,Amandine,Male,600000,Buddy Storbeck's Diesel Service Inc,Volvo,S40,Overhead Camshaft,Manual,Pale White,17000,06457-3834,Sedan,8892768,Scottsdale,2023,11,202311,Medio-Alto
+C_CND_021617,2023-11-24,Laura,Male,13500,Buddy Storbeck's Diesel Service Inc,Audi,A6,Overhead Camshaft,Manual,Black,85000,06457-3834,SUV,6122063,Middletown,2023,11,202311,Bajo
+C_CND_021632,2023-11-24,Janice,Male,1405000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Monte Carlo,DoubleÂ Overhead Camshaft,Auto,Pale White,21500,06457-3834,Hatchback,6873628,Middletown,2023,11,202311,Muy Alto
+C_CND_021688,2023-11-25,Amandine,Male,1700000,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,DoubleÂ Overhead Camshaft,Auto,Pale White,21001,06457-3834,Hatchback,8696486,Middletown,2023,11,202311,Muy Alto
+C_CND_021705,2023-11-25,Emmanuel,Male,1365000,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,Overhead Camshaft,Manual,Black,51501,06457-3834,Hatchback,8865112,Middletown,2023,11,202311,Muy Alto
+C_CND_021732,2023-11-25,Maya,Male,13500,Buddy Storbeck's Diesel Service Inc,Audi,A6,DoubleÂ Overhead Camshaft,Auto,Black,14000,06457-3834,SUV,8711422,Middletown,2023,11,202311,Bajo
+C_CND_021789,2023-11-26,Valentin,Male,13500,Buddy Storbeck's Diesel Service Inc,Jeep,Wrangler,Overhead Camshaft,Manual,Pale White,13000,06457-3834,Hatchback,6825505,Middletown,2023,11,202311,Bajo
+C_CND_021837,2023-11-27,Leo,Male,3250000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,C-Class,DoubleÂ Overhead Camshaft,Auto,Black,14001,06457-3834,Hatchback,7061086,Middletown,2023,11,202311,Muy Alto
+C_CND_021894,2023-11-27,David,Female,645000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Bravada,Overhead Camshaft,Manual,Black,17000,06457-3834,Hatchback,6875492,Pasco,2023,11,202311,Medio-Alto
+C_CND_021909,2023-11-28,Ian,Female,600000,Buddy Storbeck's Diesel Service Inc,Plymouth,Neon,DoubleÂ Overhead Camshaft,Auto,Black,9000,06457-3834,SUV,8815769,Middletown,2023,11,202311,Medio-Alto
+C_CND_021935,2023-11-28,Tenzin,Male,615000,Buddy Storbeck's Diesel Service Inc,Acura,TL,Overhead Camshaft,Manual,Pale White,14000,06457-3834,Hatchback,8760139,Middletown,2023,11,202311,Medio-Alto
+C_CND_021996,2023-12-01,Addison,Male,1105000,Buddy Storbeck's Diesel Service Inc,Lexus,ES300,Overhead Camshaft,Manual,Black,34500,06457-3834,Hardtop,6435022,Middletown,2023,12,202312,Muy Alto
+C_CND_022002,2023-12-01,Antoine,Male,1150000,Buddy Storbeck's Diesel Service Inc,Plymouth,Voyager,DoubleÂ Overhead Camshaft,Auto,Pale White,22001,06457-3834,Passenger,6947746,Middletown,2023,12,202312,Muy Alto
+C_CND_022067,2023-12-01,Aleena,Male,13500,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SLK230,DoubleÂ Overhead Camshaft,Auto,Black,33000,06457-3834,Hatchback,7692145,Middletown,2023,12,202312,Bajo
+C_CND_022095,2023-12-01,Adriana,Female,1025000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Camaro,DoubleÂ Overhead Camshaft,Auto,Pale White,17500,06457-3834,Sedan,7364131,Greenville,2023,12,202312,Muy Alto
+C_CND_022122,2023-12-02,Leo,Male,13500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Cutlass,DoubleÂ Overhead Camshaft,Auto,Pale White,46000,06457-3834,Sedan,7488881,Middletown,2023,12,202312,Bajo
+C_CND_022129,2023-12-02,Chavy,Male,2160000,Buddy Storbeck's Diesel Service Inc,Ford,Focus,Overhead Camshaft,Manual,Black,49000,06457-3834,Hardtop,7248539,Austin,2023,12,202312,Muy Alto
+C_CND_022156,2023-12-02,Emma,Male,501000,Buddy Storbeck's Diesel Service Inc,Ford,Mustang,Overhead Camshaft,Manual,Red,43000,06457-3834,Hatchback,7822136,Middletown,2023,12,202312,Medio-Alto
+C_CND_022187,2023-12-02,Valentin,Male,1076000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Prizm,DoubleÂ Overhead Camshaft,Auto,Red,15601,06457-3834,Hardtop,8594926,Scottsdale,2023,12,202312,Muy Alto
+C_CND_022205,2023-12-03,Matteo,Male,732000,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Coupe,Overhead Camshaft,Manual,Pale White,26000,06457-3834,Hardtop,7257797,Middletown,2023,12,202312,Medio-Alto
+C_CND_022212,2023-12-03,Clotilde,Male,1600000,Buddy Storbeck's Diesel Service Inc,Pontiac,Bonneville,Overhead Camshaft,Manual,Black,36001,06457-3834,Hatchback,7587644,Middletown,2023,12,202312,Muy Alto
+C_CND_022247,2023-12-03,Ibrahima,Male,452000,Buddy Storbeck's Diesel Service Inc,Volvo,S70,DoubleÂ Overhead Camshaft,Auto,Pale White,20000,06457-3834,Hardtop,6878067,Middletown,2023,12,202312,Medio
+C_CND_022277,2023-12-03,Ines,Male,850000,Buddy Storbeck's Diesel Service Inc,Ford,Taurus,Overhead Camshaft,Manual,Red,22000,06457-3834,SUV,7331654,Greenville,2023,12,202312,Alto
+C_CND_022374,2023-12-05,Victor,Male,1400000,Buddy Storbeck's Diesel Service Inc,Ford,Windstar,DoubleÂ Overhead Camshaft,Auto,Red,31000,06457-3834,Sedan,7168485,Middletown,2023,12,202312,Muy Alto
+C_CND_022421,2023-12-06,Remi,Male,927500,Buddy Storbeck's Diesel Service Inc,Volvo,S40,Overhead Camshaft,Manual,Black,36501,06457-3834,Sedan,6702942,Middletown,2023,12,202312,Alto
+C_CND_022448,2023-12-06,Pinchas,Male,830000,Buddy Storbeck's Diesel Service Inc,Volvo,C70,Overhead Camshaft,Manual,Black,17000,06457-3834,Hatchback,7989650,Middletown,2023,12,202312,Alto
+C_CND_022472,2023-12-06,Hana,Male,765000,Buddy Storbeck's Diesel Service Inc,Chrysler,LHS,DoubleÂ Overhead Camshaft,Auto,Pale White,21000,06457-3834,Hatchback,8874005,Middletown,2023,12,202312,Alto
+C_CND_022476,2023-12-06,Lynne,Male,2200000,Buddy Storbeck's Diesel Service Inc,Infiniti,I30,Overhead Camshaft,Manual,Pale White,16000,06457-3834,Hardtop,7864786,Scottsdale,2023,12,202312,Muy Alto
+C_CND_022495,2023-12-06,Lucas,Male,960000,Buddy Storbeck's Diesel Service Inc,Cadillac,Catera,DoubleÂ Overhead Camshaft,Auto,Red,28000,06457-3834,Hatchback,8576159,Greenville,2023,12,202312,Alto
+C_CND_022546,2023-12-08,Maeline,Male,1550000,Buddy Storbeck's Diesel Service Inc,Chrysler,300M,DoubleÂ Overhead Camshaft,Auto,Black,26000,06457-3834,SUV,8768220,Middletown,2023,12,202312,Muy Alto
+C_CND_022574,2023-12-08,Brian,Male,910500,Buddy Storbeck's Diesel Service Inc,Pontiac,Firebird,Overhead Camshaft,Manual,Black,43501,06457-3834,Hardtop,6565919,Scottsdale,2023,12,202312,Alto
+C_CND_022591,2023-12-09,Lilie,Female,835000,Buddy Storbeck's Diesel Service Inc,Toyota,Celica,Overhead Camshaft,Manual,Pale White,14001,06457-3834,SUV,7805366,Middletown,2023,12,202312,Alto
+C_CND_022641,2023-12-09,Adonise,Male,1450000,Buddy Storbeck's Diesel Service Inc,Saturn,SC,DoubleÂ Overhead Camshaft,Auto,Black,33000,06457-3834,Hardtop,6516082,Janesville,2023,12,202312,Muy Alto
+C_CND_022669,2023-12-09,Tiphanie,Male,1200000,Buddy Storbeck's Diesel Service Inc,BMW,328i,DoubleÂ Overhead Camshaft,Auto,Black,16000,06457-3834,Sedan,6546615,Greenville,2023,12,202312,Muy Alto
+C_CND_022691,2023-12-10,Shmuel,Male,730000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Metro,DoubleÂ Overhead Camshaft,Auto,Black,31000,06457-3834,Passenger,7046352,Middletown,2023,12,202312,Medio-Alto
+C_CND_022712,2023-12-10,Yann,Male,800000,Buddy Storbeck's Diesel Service Inc,Honda,Passport,Overhead Camshaft,Manual,Black,22000,06457-3834,Hardtop,8350417,Middletown,2023,12,202312,Alto
+C_CND_022720,2023-12-10,Camille,Male,1725000,Buddy Storbeck's Diesel Service Inc,Acura,RL,Overhead Camshaft,Manual,Red,17500,06457-3834,SUV,7490166,Middletown,2023,12,202312,Muy Alto
+C_CND_022765,2023-12-11,Adelaide,Male,895000,Buddy Storbeck's Diesel Service Inc,Pontiac,Grand Prix,DoubleÂ Overhead Camshaft,Auto,Red,19001,06457-3834,Passenger,7377997,Middletown,2023,12,202312,Alto
+C_CND_022802,2023-12-11,Yitzchak,Male,507000,Buddy Storbeck's Diesel Service Inc,Acura,TL,DoubleÂ Overhead Camshaft,Auto,Black,28000,06457-3834,Hatchback,7401857,Middletown,2023,12,202312,Medio-Alto
+C_CND_022881,2023-12-11,Sophia,Male,13500,Buddy Storbeck's Diesel Service Inc,Hyundai,Sonata,Overhead Camshaft,Manual,Red,21000,06457-3834,SUV,6085607,Scottsdale,2023,12,202312,Bajo
+C_CND_022918,2023-12-12,Sydney,Female,597500,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,21500,06457-3834,Hardtop,8065114,Janesville,2023,12,202312,Medio-Alto
+C_CND_022940,2023-12-12,Esther,Male,805000,Buddy Storbeck's Diesel Service Inc,Chrysler,Sebring Coupe,DoubleÂ Overhead Camshaft,Auto,Pale White,46000,06457-3834,Sedan,8424693,Scottsdale,2023,12,202312,Alto
+C_CND_022970,2023-12-12,Meline,Male,434000,Buddy Storbeck's Diesel Service Inc,Lexus,ES300,DoubleÂ Overhead Camshaft,Auto,Pale White,27000,06457-3834,Hardtop,6530470,Middletown,2023,12,202312,Medio
+C_CND_023034,2023-12-14,Pauline,Male,655000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Monte Carlo,Overhead Camshaft,Manual,Red,17000,06457-3834,Hatchback,6680684,Janesville,2023,12,202312,Medio-Alto
+C_CND_023049,2023-12-15,Annie,Male,400000,Buddy Storbeck's Diesel Service Inc,Lincoln,Continental,Overhead Camshaft,Manual,Black,42000,06457-3834,Passenger,7559957,Middletown,2023,12,202312,Medio
+C_CND_023097,2023-12-16,Hindy,Female,607000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,S-Class,Overhead Camshaft,Manual,Red,21000,06457-3834,SUV,8902533,Pasco,2023,12,202312,Medio-Alto
+C_CND_023122,2023-12-17,Darius,Male,1335000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SL-Class,Overhead Camshaft,Manual,Red,17500,06457-3834,Hardtop,8878973,Middletown,2023,12,202312,Muy Alto
+C_CND_023126,2023-12-17,Victor,Male,1800000,Buddy Storbeck's Diesel Service Inc,Dodge,Stratus,DoubleÂ Overhead Camshaft,Auto,Red,31000,06457-3834,Hatchback,6105371,Middletown,2023,12,202312,Muy Alto
+C_CND_023240,2023-12-18,Axel,Male,800000,Buddy Storbeck's Diesel Service Inc,Buick,Regal,DoubleÂ Overhead Camshaft,Auto,Black,19000,06457-3834,Passenger,6150163,Janesville,2023,12,202312,Alto
+C_CND_023253,2023-12-19,Elsa,Male,1124000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,S-Class,DoubleÂ Overhead Camshaft,Auto,Pale White,10400,06457-3834,SUV,8278325,Middletown,2023,12,202312,Muy Alto
+C_CND_023273,2023-12-19,Leah,Male,437000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Lumina,Overhead Camshaft,Manual,Red,12000,06457-3834,Passenger,8758318,Pasco,2023,12,202312,Medio
+C_CND_023284,2023-12-20,Aiden,Male,900000,Buddy Storbeck's Diesel Service Inc,Chevrolet,Lumina,Overhead Camshaft,Manual,Pale White,26000,06457-3834,Passenger,8415695,Middletown,2023,12,202312,Alto
+C_CND_023345,2023-12-23,Yidel,Female,3820000,Buddy Storbeck's Diesel Service Inc,Dodge,Ram Pickup,DoubleÂ Overhead Camshaft,Auto,Pale White,45000,06457-3834,Hardtop,6949289,Middletown,2023,12,202312,Muy Alto
+C_CND_023379,2023-12-23,Julia,Male,13500,Buddy Storbeck's Diesel Service Inc,Ford,Expedition,Overhead Camshaft,Manual,Black,10000,06457-3834,SUV,8393977,Middletown,2023,12,202312,Bajo
+C_CND_023460,2023-12-24,Malachi,Male,565000,Buddy Storbeck's Diesel Service Inc,Subaru,Forester,DoubleÂ Overhead Camshaft,Auto,Red,23000,06457-3834,Hardtop,7527037,Middletown,2023,12,202312,Medio-Alto
+C_CND_023470,2023-12-24,Michaela,Male,13500,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Intrigue,DoubleÂ Overhead Camshaft,Auto,Pale White,45000,06457-3834,SUV,8310050,Pasco,2023,12,202312,Bajo
+C_CND_023481,2023-12-25,Blake,Male,1150000,Buddy Storbeck's Diesel Service Inc,Audi,A6,DoubleÂ Overhead Camshaft,Auto,Black,14000,06457-3834,SUV,8013244,Middletown,2023,12,202312,Muy Alto
+C_CND_023598,2023-12-26,Nina,Female,780000,Buddy Storbeck's Diesel Service Inc,Lincoln,Town car,DoubleÂ Overhead Camshaft,Auto,Black,26000,06457-3834,Hatchback,8665623,Middletown,2023,12,202312,Alto
+C_CND_023602,2023-12-26,Esteban,Female,1876000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,SL-Class,Overhead Camshaft,Manual,Pale White,26601,06457-3834,Hardtop,7861368,Middletown,2023,12,202312,Muy Alto
+C_CND_023636,2023-12-26,Enzo,Male,620000,Buddy Storbeck's Diesel Service Inc,Oldsmobile,Cutlass,DoubleÂ Overhead Camshaft,Auto,Red,15000,06457-3834,Sedan,7925006,Greenville,2023,12,202312,Medio-Alto
+C_CND_023669,2023-12-27,Rivka,Female,13500,Buddy Storbeck's Diesel Service Inc,Acura,RL,Overhead Camshaft,Manual,Black,18000,06457-3834,SUV,6145123,Pasco,2023,12,202312,Bajo
+C_CND_023710,2023-12-29,Marivs,Male,832000,Buddy Storbeck's Diesel Service Inc,Ford,Explorer,DoubleÂ Overhead Camshaft,Auto,Pale White,42000,06457-3834,Hatchback,6287857,Middletown,2023,12,202312,Alto
+C_CND_023773,2023-12-29,Jean,Female,360000,Buddy Storbeck's Diesel Service Inc,Dodge,Viper,DoubleÂ Overhead Camshaft,Auto,Red,31000,06457-3834,SUV,6653074,Greenville,2023,12,202312,Medio
+C_CND_023811,2023-12-29,Louis,Male,1615000,Buddy Storbeck's Diesel Service Inc,Mitsubishi,Diamante,DoubleÂ Overhead Camshaft,Auto,Black,17500,06457-3834,Hatchback,6150391,Greenville,2023,12,202312,Muy Alto
+C_CND_023901,2023-12-31,Nathan,Female,771000,Buddy Storbeck's Diesel Service Inc,Ford,Contour,DoubleÂ Overhead Camshaft,Auto,Red,19000,06457-3834,Sedan,8170003,Greenville,2023,12,202312,Alto
